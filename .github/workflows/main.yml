@@ -29,6 +29,6 @@ jobs:
           publish_dir: ./public
           #   keep_files: true
           user_name: PsuAstro528
-          #user_email: <username@email.com>
+          user_email: <ebf11@psu.edu>
           publish_branch: main
         #   cname: example.com
