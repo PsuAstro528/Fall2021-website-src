@@ -1,11 +1,11 @@
 +++
-title = "Week 14: Full Class Project due"
+title = "Lab/Homework Exercises"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 14101  #wwdpp
+weight = 300
 
-chapter= true
+chapter= false
 
 creatordisplayname = "Eric Ford"
 creatoremail = "ebf11 at psu dot edu"
@@ -13,7 +13,13 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-## Lessons / Resources
-{{< children depth="2" >}}
+<a id="labs"></a>
+{{%excerpt-include filename="lessons/week1/lab.md" /%}}
 
-{{% alert theme="danger" %}} Due Dec 2 {{% /alert %}}
+{{%excerpt-include filename="lessons/week2/lab.md" /%}}
+
+{{%excerpt-include filename="lessons/week3/lab.md" /%}}
+
+<!--
+TODO: Add 5, 7, 9, 10, 12
+-->

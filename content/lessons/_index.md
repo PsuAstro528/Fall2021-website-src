@@ -20,7 +20,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ---
 <a id="readings"></a>
-# Readings, Tutorials & Other Preparation for Class
+# Preparing for Class
 Week 1
 {{%excerpt-include filename="lessons/week1/read.md" /%}}
 
@@ -36,6 +36,7 @@ Week 4
 Week 5
 {{%excerpt-include filename="lessons/week5/read.md" /%}}
 
+<!-- 
 Week 6
 
 Week 7
@@ -49,6 +50,7 @@ Week 10
 Week 11
 
 Week 12
+-->
 
 ---
 

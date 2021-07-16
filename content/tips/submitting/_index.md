@@ -28,7 +28,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 <a id="clone-repo"></a>
 ### Clone your github repository to begin a new assignment
 
-- Request a Jupyter notebook session on ACI (see [getting started](../aci/#start-jupyter))
+- Request a Jupyter notebook session on ACI (see [getting started](aci/#start-jupyter))
 - While waiting for it to start, let's get the url for the repo to be cloned.
     + If you haven't followed the link to create your repo for this week's assignment, do that now.  Following that link should trigger GitHub to create a private git repository named labN-GITHUBID (where N is the week number and GITHUBID is the GitHub username that you're logged in as at the time you follow the link).
     + Navigate to the github repository you'll be using in your browser.

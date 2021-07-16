@@ -15,7 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 
 {{%excerpt%}}
-<b>Profiling, Optimization</b> <br />
+**Profiling, Optimization** <br />
 {{%/excerpt%}}
 <!-- 
 [Lab 4 Git Repository](https://github.com/PsuAstro528/lab4-start) (due Aug 27) -->

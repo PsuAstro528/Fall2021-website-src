@@ -1,9 +1,9 @@
 +++
-title = "Using ICDS-ACI/Roar"
+title = "Initial Setup for Astro 528 on ACI"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 0810
+weight = 0812
 
 chapter= false
 hidden = false
@@ -14,13 +14,7 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-## Need to update this page for Fall 2021 
-
-## Instructions for Completing Labs via ICS ACI Portal
-1.  [Setup Julia kernel to work with ICS-ACI](#setup-julia) (only needs to be done once per user)
-2.  [Start a Jupyter Notebook session on ACI](#start-jupyter)
-
----
+## TODO: Need to update this page for Fall 2021 
 
 <a id="setup-julia"></a>
 ### Setup Julia kernel to work with ACI's Jupyter notebook server
@@ -74,7 +68,7 @@ echo "export LD_LIBRARY_PATH=$PWD/lib/julia:$LD_LIBRARY_PATH" >> ~/.bashrc
 
 
 # Setup IJulia and a few packages that we'll be using lots
-julia -e 'using Pkg; Pkg.add(["IJulia","Weave","NBInclude"])'
+julia -e 'using Pkg; Pkg.add(["IJulia","Weave","NBInclude", "Pluto", "PlutoUI"])'
 ```
 
 - If you do not already have ssh keys setup on ICS-ACI, then create them with:
@@ -95,28 +89,5 @@ git config --global user.name "Your Github Id"
 - Shutdown the session and close the browser window/tab with the ACI Interactive Desktop
 - Go back to the "My Interactive Sessions" tab in the ACI Portal, click "Delete" for this Sessions and confirm.
 
----
-<a id="start-jupyter"></a>
-### Start a Jupyter notebook session on ACI
-Each time in the future you want to start a Jupyter notebook session on ICS-ACI
-
-- Browse to portal.aci.ics.psu.edu
-- Login (if necessary)
-- Click _Interactive Apps_ on top menu
-- Choose _Jupyter Notebook_
-    + Select:
-        - Anaconda version: 5.0.1-3.6.3
-        - Allocation: Open
-        - Number of hours: 2 hours
-        - Node type: ACI-i
-    + Click _Launch_
-    + Wait while your job starts
-- Once the _Connect to Jupyter Notebook Server_ button appears, click it
-    + Near the upper right, there's a _New_ button, from which you can create a new blank notebook using Julia 1.0.2 or access a terminal or text editor.
-    + If you'd like to create a blank notebook, then choose _New.Julia 1.0.2_
-    + A new browser tab should open where you can work with a notebook interactively.
-    + Do your work, remembering to save your notebook after key edits and before you quit.
-- See [../submitting](Starting & Submitting Assignments) for more information on accessing and submitting assignments.
-- When you're done, close notebook tabs and click logout in upper right (of the Jupyter server session).
-- Go back to the "My Interactive Sessions" tab in the ACI Portal, click "Delete" for this Sessions and confirm.
+ 
 
