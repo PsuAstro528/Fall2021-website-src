@@ -24,8 +24,8 @@ lastmodifieremail = "ebf11@psu.edu"
 # Lawrence Livermore National Laboratory
 
 - [Introduction to Parallel Computing by Blaise Barney](https://computing.llnl.gov/tutorials/parallel_comp/)
-- [OpenMP](https://computing.llnl.gov/tutorials/openMP/)
-- [Message Passing Interface (MPI)](https://computing.llnl.gov/tutorials/mpi/)
+- [OpenMP](https://hpc.llnl.gov/tuts/openMP/)
+- [Message Passing Interface (MPI)](https://hpc-tutorials.llnl.gov/mpi/)
 - [OpenACC slides from NVIDIA](https://hpc.llnl.gov/sites/default/files/2014.09.15-16.NVIDIA-OpenACC_0.pdf)
 
 # Texas Advanced Computing Center

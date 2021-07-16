@@ -47,7 +47,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
    - [Julia's FITSIO.jl package](https://github.com/JuliaAstro/FITSIO.jl)
    - [Feather.jl](http://juliadata.github.io/Feather.jl/stable/)
    - [FileIO.jl](https://github.com/JuliaIO/FileIO.jl)
-- [Querying DataFrames](http://juliadata.github.io/DataFrames.jl/stable/man/querying_frameworks.html).
-   - [Query.jl](http://www.queryverse.org/Query.jl/stable/gettingstarted.html)
+- [Querying DataFrames](https://dataframes.juliadata.org/stable/man/querying_frameworks/)
+   - [Query.jl](http://www.queryverse.org/Query.jl/stable/gettingstarted/)
    - [DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl))
 {{% children depth="1" %}}

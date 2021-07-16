@@ -33,7 +33,7 @@ lastmodifieremail = "ebf11@psu.edu"
 # [Jupyter](https://jupyter.org/)
 
 - [DataQuest Tutorial on Jupyter](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
-- [Setting up Jupyter for Julia](https://lectures.quantecon.org/jl/getting_started.html)
+- [Setting up Jupyter for Julia](https://julialang.github.io/IJulia.jl/stable/manual/installation/)
 - [Jupyter with multiple languages](https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6)
 - [Diffing Jupyter notebooks](https://github.com/jupyter/nbdime#installation)
 - [Binder for sharing Jupyter notebooks](https://mybinder.org/)
@@ -47,8 +47,7 @@ lastmodifieremail = "ebf11@psu.edu"
 - [Git Desktop](https://desktop.github.com/)
 
 # Linux Command Line
-
-- [Data Camp on Shell](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
+- [Data Camp on Shell](https://www.datacamp.com/courses/introduction-to-shell)
 
 # Docker
 
@@ -56,7 +55,7 @@ lastmodifieremail = "ebf11@psu.edu"
 - Docker for homework exercises:  [Github Repo](https://github.com/PsuAstro528/notebook) [Cloud.Docker.com Repo](https://cloud.docker.com/u/astro528/repository/docker/astro528/notebook)
 - [Jupyter Docker Stacks](https://github.com/jupyter/docker-stacks): More ready-to-run Docker images containing Jupyter applications [User guide](https://jupyter-docker-stacks.readthedocs.io/en/latest/)
 - [Setting up Docker on Linux](https://docs.docker.com/install/linux/docker-ce/ubuntu/#set-up-the-repository)
-- [How to remove Docker containers, images, volumes, networks](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/)
+- [How to remove Docker containers, images, volumes, networks](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
 )
 # Docker containers:  
 - [Data Science Notebook](https://github.com/jupyter/docker-stacks/tree/master/datascience-notebook)

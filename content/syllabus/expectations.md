@@ -44,4 +44,6 @@ In order to receive consideration for course accommodations, you must contact OD
 
 Academic Success, Learning Assistance, & Student Resources
 The Eberly College of Science is committed to the academic success of students enrolled in the College's courses and undergraduate programs. When in need of help, students can utilize various College and University wide resources for learning assistance.
-http://www.science.psu.edu/advising/success/.
+[ECoS advising resources](https://science.psu.edu/current-students/student-services/academics-and-advising)
+
+
