@@ -58,7 +58,9 @@ lastmodifieremail = "ebf11@psu.edu"
 - [Setting up Docker on Linux](https://docs.docker.com/install/linux/docker-ce/ubuntu/#set-up-the-repository)
 - [How to remove Docker containers, images, volumes, networks](https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-networks/)
 )
-# [Docker container for homework assignments](https://github.com/PsuAstro528/notebook)
+# Docker containers:  
+- [Data Science Notebook](https://github.com/jupyter/docker-stacks/tree/master/datascience-notebook)
+- [Old custom container for Spring 2019](https://github.com/PsuAstro528/notebook)
 
 # Licensing
 

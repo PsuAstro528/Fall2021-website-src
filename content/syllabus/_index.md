@@ -12,8 +12,8 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-# High-Performance Scientific Computing for Astrophysics
-# Astro 528:  Fall 2021
+## High-Performance Scientific Computing for Astrophysics
+## Astro 528:  Fall 2021
 ## Scope & Sprit of the Course
 
 _High-Performance Scientific Computing for Astrophysics_ will combine class discussion and programming exercises to train students in the use of modern computing hardware and programming strategies for application to astronomy and astrophysics research.  Students will gain experience applying these practices during a class project (potentially in support of the student’s dissertation research).
@@ -26,6 +26,6 @@ The primary goal is for students to improve their skills in scientific computing
 
 All of these objectives may not be realized within the one-semester course, and we will adapt the scope and emphasis based on student interests and programming experience.  The version of the syllabus on the course website will be updated throughout the semester and supersede the printed version.  Students should check the website regularly for updates.
 
-{{< children depth="1"  >}}
+{{< children depth="1"  />}}
 - [Course Schedule](/lessons/)
 - [Additional Resources](/resources/other)

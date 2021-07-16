@@ -1,0 +1,37 @@
++++
+title = "Learning goals"
+course_inst = "Penn State"
+course_number = "Astro 528"
+course_name = "High-Performance Scientific Computing for Astrophysics"
+weight = 01101  #wwdpp
+
+chapter= false
+hidden = false
+
+creatordisplayname = "Eric Ford"
+creatoremail = "ebf11 at psu dot edu"
+lastmodifierdisplayname = "Eric Ford"
+lastmodifieremail = "ebf11 at psu dot edu"
++++
+
+
+# Week 1
+{{%excerpt%}}
+- Understand course goals, overview, organization
+- Recognize opportunities to improve producitivty through software development practices
+- Exercise 1: Use software development tools
+   + Access ICDS-ACI Portal's Jupyter Notebook Server using Julia Kernel
+   + Optionally access Julia+Git on your own computer
+   + Use Git & GitHub.com for retreiving and submitting lab assignments
+- Exercise 2: Floating Point Arithmetic, Functions, Tests
+   + Write code as a function
+   + Use/write tests of code
+   + Become vigilant about potential pitfalls with floating-point arithmetic
+- Exercise 3: Develop personal goals for semester 
+{{%/excerpt%}}
+
+## Lessons along the way
+
+- Strings, Modules, Namespace, Types, include
+- Packages, Functions, Docstrings, Pseudo-random numbers, Broadcasting, Single & double precssion, Type stability, Online algorithms
+- Write markdown text

@@ -1,0 +1,138 @@
++++
+title = "Starting & Submitting Assignments"
+course_inst = "Penn State"
+course_number = "Astro 528"
+course_name = "High-Performance Scientific Computing for Astrophysics"
+weight = 0850
+
+chapter= false
+hidden = false
+
+creatordisplayname = "Eric Ford"
+creatoremail = "ebf11 at psu dot edu"
+lastmodifierdisplayname = "Eric Ford"
+lastmodifieremail = "ebf11 at psu dot edu"
++++
+
+## Need to update this page for Fall 2021 
+
+## Instructions for Completing Labs via ICS ACI Portal
+1.  [Clone your Github Repository on ACI](#clone-repo) (only need to do once per assignment)
+2.  [Test your code](#test-code)
+3.  [Commit your work and push to Github](#commit-push)
+4.  [Submit your work via Github pull request](#submit-pr)
+5.  [Review the feedback on your submission](#discuss-pr)
+
+---
+
+<a id="clone-repo"></a>
+### Clone your github repository to begin a new assignment
+
+- Request a Jupyter notebook session on ACI (see [getting started](../aci/#start-jupyter))
+- While waiting for it to start, let's get the url for the repo to be cloned.
+    + If you haven't followed the link to create your repo for this week's assignment, do that now.  Following that link should trigger GitHub to create a private git repository named labN-GITHUBID (where N is the week number and GITHUBID is the GitHub username that you're logged in as at the time you follow the link).
+    + Navigate to the github repository you'll be using in your browser.
+    + Click _Clone or download_.
+    + If it says "Clone with https", click "Use ssh".
+    + Click the clipboard icon to copy the url onto your clipboard
+- Return to your browser tab with "My Interactive Sessions".
+- Hopefully, there's now a _Connect to Jupyter Notebook Server_ button. Click it
+- Go to the newly opened tab, you'll have a Jupyter Notebook Server.
+- Find _New_ button and choose _Terminal_
+- In the new terminal tab, clone your github repo by running
+
+```shell
+git clone REPO_URL  # where REPO_URL is what you'll paste from the clipboard
+```
+- Change into the directory that was created for the repository (we'll call REPO_DIR) and setup all the packge dependancies required (as specified by the Project.toml or test/Project.toml file). 
+<!-- (For people who are particularly interested in Julia's package manager:  Normally, this would be in the root directory, but I found having one broken mybinder.org's ability to install Julia packages successfully.  So putting the Project.toml in the test directory is a work around for repositories that don't need to become a Julia package.  That proved to create some problems with travis, so starting with Lab 4, I'm reverting to putting the Project.toml in the root directory.)  -->
+
+<!-- Labs 1-3: -->
+<!-- 
+```shell
+cd REPO_DIR
+julia -e 'using Pkg; cd("test"); Pkg.activate("."); Pkg.instantiate(); '
+```
+Labs >=4:
+-->
+```shell
+cd REPO_DIR
+julia -e 'using Pkg; Pkg.activate("."); Pkg.instantiate(); '
+```
+
+- Optional (can do later if needed):  In case the instructor makes changes to the template, it would be useful to be able to merge in those changes easily.  To prepare for that, let's set a remote upstream repository.  Here I assume that your REPO_URL was https://github.com/GITHUBID/example-GITHUBID.git.  Notice that we're replacing the first GITHUB id by the organization name "PsuAstro528" and remove the "-GITHUBID" at the end.
+```shell
+git remote add upstream git@github.com:PsuAstro528/example.git
+```
+
+- Go back to the browser tab with your Jupyter notebook server running.
+- Click the directory name of the repository that you just installed.
+- Open a Jupyter notebook (file ending in .ipynb) in that repo, or use the _New_ button to create a new one.
+- Do your work in the Jupyter notebook.
+- When you're done with a notebook, save it and close the tab.
+
+---
+<a id="run-tests"></a>
+### Test your code
+
+- Make sure you've committed all your changes (including adding any new files)
+- Check that your code passes the tests for each exercise as you go in a separate test notebook like test_myself.ipynb:
+
+```julia
+using NBInclude
+@nbinclude("exercise1.ipynb")
+include("test/test1.jl")
+```
+- If you make changes and retest, then restart the kernel for the test notebook to be sure there aren't unintended carryover effects
+- You can test your full repository even more similarly to how it will be tested by the continuous integration testing by opening a terminal window and running `julia test/runtests.jl`
+
+---
+<a id="convert-to-markdown"></a>
+### Convert your Jupyter notebook to Markdown 
+
+- You'll skip this step for any assignments that are Pluto notebooks, since Pluto notebooks are already valid Julia code.
+- Return to the terminal tab # (or open a new one)
+- Run the following commands
+```shell
+cd YOUR_REPO_DIRECTORY     # You'll need to replace YOUR_REPO_DIRECTORY and NOTEBOOK_NAME
+julia -e 'using Weave; convert_doc("NOTEBOOK_NAME.ipynb","NOTEBOOK_NAME.jmd")'
+
+---
+<a id="commit-push"></a>
+### Commit your changes and push to Github
+
+- Return to the terminal tab (in YOUR_REPO_DIRECTORY)
+- Run the following commands
+
+```shell
+git add NOTEBOOK_NAME.jmd  # Only need to do this once per new file if you use the -a option with "git commit" below.  Otherwise, need to do each time you want to deposit a new version of the file into your respository.
+git commit -a -m "note about what you've done"  # Commit all changes you've made
+git push                                        # Uploads your progress to github
+```
+- If this repository is configured to apply tests via continuous integration, then check back on whether your changes pass the tests.  
+<!-- The results will be avaliable at a url like https://travis-ci.com/PsuAstro528/labN-GITHUBID/ . -->
+
+- When you're all done, close browser tabs and remember to go back to the "My Interactive Sessions" tab in the ACI Portal, click "Delete" for this Sessions and confirm.
+
+---
+<a id="submit-pr"></a>
+### Submit your work via Github pull request
+
+- Make sure you've committed all your changes
+- Check that your code passes all the tests (or as many as practical in reasonable ammount of your time)
+- Navigate to your github repository for the assignment
+- Click _New Pull Request_ button (second button from left, below the orange bar)
+- Set the left button to "base:original".  Leave the right button "compare:master".
+- Review the updates to the page and make sure this is the version you intend to submit.
+- Enter a name for the pull request in the text box to the right of your avitar/icon.
+- Optionally, write a longer messages in the larger box below
+- Click _Create Pull Request_
+
+---
+<a id="discuss-pr"></a>
+## Review the feedback on your submission (your pull request)
+- Browse to your github repository.
+- Click _Pull Requests_, click the name of your pull request.
+- In the conversations tab (default), you and the instructor can discuss the pull request using the text box at the bottom of the page.
+- In the "Files changed" tab, the instructor can provide comments on specific lines of your submission.
+- You can view the comments, reply, close the pull request, make more changes, create a new pull request, etc.
