@@ -24,7 +24,7 @@ This course can count toward the Penn State [Graduate Minor in Computational Sci
 
 The primary goal is for students to improve their skills in scientific computing, including programming practices for achieving reproducible results and high-performance scientific computing with an eye towards scaling up to larger problems and [Big Data](http://en.wikipedia.org/wiki/Big_data).  To achieve this, students will develop a basic understanding of modern computer architectures, memory systems, programming languages and common programming patterns.  Exercises provide students with experience applying established programming practices (e.g., version control, coding standards, unit testing, debugging, profiling, documenting and reviewing code) and optimizing performance using multi-core processors, clusters, GPUs and (hopefully) cloud computing.
 
-All of these objectives may not be realized within the one-semester course, and we will adapt the scope and emphasis based on student interests and programming experience.  The version of the syllabus on the course website will be updated throughout the semester and supersede the printed version.  Students should check the website regularly for updates.
+All of these objectives may not be realized within the one-semester course, and we will adapt the scope and emphasis based on student interests and programming experience.  The version of the syllabus on the course website will be updated throughout the semester.  Students should check the website regularly for updates.
 
 {{< children depth="1"  />}}
 - [Course Schedule](/lessons/)

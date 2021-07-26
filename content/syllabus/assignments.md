@@ -13,7 +13,9 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 The assessed work for this course consists of computer [lab/homework assignments]({{< relref "#lab-homework-exercises" >}}) (50%) and a [class project]({{< relref "#class-project" >}}) (50%).  There are no exams.  Contributions to [class discussion]({{< relref "#class-participation" >}}) (including submitting [reading questions]({{< relref "#readings-reading-questions" >}}) may be counted for up to 10% of the course grade (coming from lab/homework exercises). The class project will have several components and will be described in more detail below.
 
-The planned assignment due dates are in the schedule section of the syllabus.  Any revision to the due dates will be announced at the time they are assigned.  Assignments are due at least an hour prior to the beginning of class on the day they are due.  If the University is closed on the due date of an assignment (due to bad weather or any other reason), then the assignment will be due one hour before the next class session.
+The planned assignment due dates are in the [schedule section](/lessons) of the syllabus.  Any revision to the due dates will be announced at the time they are assigned.  
+<!-- Assignments are due on the same day as a class session are due at least two hours prior to the beginning of class.  -->
+If the University is closed on the due date of an assignment (due to bad weather or any other reason), then the assignment will be due two hours before the next class session (that is not canceled).
 
 
 ## Lab/Homework Exercises

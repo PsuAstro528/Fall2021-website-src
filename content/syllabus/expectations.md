@@ -18,12 +18,16 @@ The Eberly College of Science has a Code of Mutual Respect and Cooperation.  Thi
 
 All students are responsible for knowing and following all the rules and regulations for this course as set forth in the syllabus (including the details on the class web site) and what is announced in class.  In case of any ambiguity, ask the instructor to clarify.
 
+<!-- 
 ## Ethics and Honorable Behavior
 All Penn State, Eberly College of Science, and Astronomy Department policies regarding ethics and honorable behavior apply to this course. These can be found at:
 - http://www.psu.edu/ufs/policies/47-00.html#49-20
 - http://www.science.psu.edu/academic/Integrity/Policy.html
 - http://www.astro.psu.edu/deptinfo/Astropolicy.html
 
+-->
+
+## Academic Integrity 
 Students are expected to present their own work for homework assignments and the class project.  Students are be strongly encouraged to consult with each other as part of completing assignments (in addition to making use of pair coding, as described below).  How does one reconcile these two?  One good rule of thumb is that you (whether an individual or a pair coding team) want to ask for help in planning what to do or figuring out what could be causing a problem, but when it comes time to implement those ideas, you should write the code yourself.  When you collaborate with a classmate to develop a plan, you should each implement it individually.  
 
 A second good rule of thumb is that you should not copy and paste text or code for a homework assignment.  Any time you do (e.g., if you were to modify code from the Julia base or a package developed by a third party), you should clearly credit the source and indicate this via inline documentation in both the code which parts are you own and which were borrowed.  That doesn't mean that you'll get credit for other people's work, but it will mean you've been upfront about what was your contribution.  If you're ever unsure whether something is ok, you should ask and include an explanation of the contributions of others in your code and whatever you turn in.
@@ -35,15 +39,6 @@ You are _encouraged_ to engage in “pair coding” for the homework assignments
 Whether you complete assignments individually or in pairs, you are encouraged to compare your implementation’s code, accuracy and performance to that of your other classmates.  Before you make changes after such a comparison, tag your repository with "precompare" (if for the whole assignment) or "precompare-N" (where N is the exercise number if you compare one exercise at a time within an assignment).  In the pull request, add a few lines summarizing what changes you made and what you learned from the experience (e.g., how much of a difference the change made, if there are are drawbacks to the new approach).
 
 ## Timeliness of assignments
-Students should start all assignments well before the due date, so they can resolve any technical difficulties well in advance of the deadline.  Since assignments will typically be discussed in class on the day they are due, credit will be given based on what is submitted prior to class.  In cases where turning in assignments on time is not practical due to illness, family emergency, or other university-approved excuse, assignments should still be completed and turned in, but those assignments may not be included when computing the course grade.  If portions of the class project totalling more than 10% of course grade can not be completed before the course end date due to illness, family emergency, etc., then the student can elect to receive a “deferred grade” (DF) and to submit the remaining portions of the project no later than eight weeks after the course end date.  Students electing this option should be familiar with the PSU DF policies (http://handbook.psu.edu/content/deferred-grade).
-
-## Special Accommodations
-Penn State welcomes students with disabilities into the University's educational programs. If you have a disability-related need for reasonable academic adjustments in this course, contact the Office for Disability Services (ODS) at 814-863-1807 (V/TTY). For further information regarding ODS, please visit the Office for Disability Services Web site at http://equity.psu.edu/ods/.
-
-In order to receive consideration for course accommodations, you must contact ODS and provide documentation (see the documentation guidelines at https://equity.psu.edu/ods/guidelines). If the documentation supports the need for academic adjustments, ODS will provide a letter identifying appropriate academic adjustments. Please share this letter and discuss the adjustments with your instructor as early in the course as possible. You must contact ODS and request academic adjustment letters at the beginning of each semester.
-
-Academic Success, Learning Assistance, & Student Resources
-The Eberly College of Science is committed to the academic success of students enrolled in the College's courses and undergraduate programs. When in need of help, students can utilize various College and University wide resources for learning assistance.
-[ECoS advising resources](https://science.psu.edu/current-students/student-services/academics-and-advising)
+Students should start all assignments well before the due date, so they can resolve any technical difficulties well in advance of the deadline.  Since assignments will typically be discussed in class on the day they are due, credit will be given based on what is submitted prior to class.  In cases where turning in assignments on time is not practical due to illness, family emergency, or other university-approved excuse, assignments should still be completed and turned in, but those assignments may not be included when computing the course grade.  If portions of the class project totalling more than 10% of course grade can not be completed before the course end date due to illness, family emergency, etc., then the student can elect to receive a “deferred grade” (DF) and to submit the remaining portions of the project no later than eight weeks after the course end date.  Students electing this option should be familiar with the [PSU DF policies](http://handbook.psu.edu/content/deferred-grade).
 
 

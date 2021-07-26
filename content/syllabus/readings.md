@@ -18,6 +18,7 @@ The required textbooks for this course are:
 - _[Think Julia: How to Think like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)_ by Ben Lauwens and Allen Downey, 1st edition, May 14, 2019.  ISBN-10:1492045039 (I recommend using the version avaliable online for free.)
 
 I will also suggest readings from an optional textbook: 
+- [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence.](https://statisticswithjulia.org/) by  Yoni Nazarathy and Hayden Klok, Springer Series in the Data Sciences, [PDF of draft version](https://statisticswithjulia.org/StatisticsWithJuliaDRAFT.pdf).  (I recommend using the version avaliable online for free.)
 - _Introduction to High Performance Computing for Scientists and Engineers_ by Georg Hager &amp; Gerhard Wellein, CRC Press, 1st edition, July 2, 2010,  ISBN-10: 143981192X
 Whenever readings from _Introduction to High Performance Computing for Scientists and Engineers_ are suggested, there will be alternative online reading assignments for students who prefer not to purchase another textbook.  Hopefully, different students reading from different sources will help stimulate interesting discussion about commonalities and differences across sources.
 
@@ -35,6 +36,11 @@ We will also make use of a variety of web resources, likely including:
 - [OpenACC slides from NVIDIA](https://hpc.llnl.gov/sites/default/files/2014.09.15-16.NVIDIA-OpenACC_0.pdf)
 - [Introduction to Parallel Programming with GPUs & CUDA](https://www.udacity.com/course/cs344) at Udacity
 - [Docker Orientation](https://docs.docker.com/get-started/)
+
+## Additional Julia Resources
+- [Julia Manual](http://docs.julialang.org/en/v1/)
+- [Julia Language Discourse](https://discourse.julialang.org/)
+- [The Julia Language Slack](https://julialang.org/slack/)
 
 <!-- 
 Broken links, may try to find replacements for:

@@ -27,13 +27,15 @@ lastmodifieremail = "ebf11 at psu dot edu"
     + Efficient Workflows
 - Optimizing Code Performance
     + Modern Processors, Memory & Networking Architectures
-    + Choosing Algorithms
+    + Choice of Algorithms
+    + Choice of Data Structures
     + Serial Codes
     + Shared Memory Systems (i.e., muli-core within one node)
-    + Distrbiuted Memory Systems (across multiple nodes)
+    + Distrbiuted Memory Systems (e.g., across multiple nodes)
     + Hardware Accelerators (e.g., GPUs, Intel Phi)
     + Cloud Computing
     + Strong & Weak Scaling
 - Experience 
     + Practice good programming habits on series of exercises
     + Apply best practices to a real science project
+

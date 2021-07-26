@@ -39,7 +39,20 @@ Eric Ford
 
 ---
 ## Safety & Respect
-
+___
+### University Policy
+As of June 28, masks are optional for those who are fully vaccinated (two weeks after the second dose in a two-dose series or two weeks after a single-dose vaccine), including in classroom, advising, and student services spaces. Unvaccinated individuals must continue to wear masks indoors at all times.
+___
+### Please err on the side of caution
+- If not feeling well, please stay home.
+- If have reason to beleive may have been exposed, please stay home.
+- Please let me know in advance (to the extent practical).
+- Please work with me to make it practical for students to participate remotely when staying home to help protect others.
+___
+- Being extra cautious in class will help peers and instructor to focus on learning, rather than worrying about their safety.
+- If engage in less safe activities outside of class, please take precautions.
+___
+###
 ---
 ## Course goals
 

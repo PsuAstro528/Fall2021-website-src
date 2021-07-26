@@ -1,5 +1,5 @@
 +++
-title = "Accomodations"
+title = "Additional Information"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
@@ -13,13 +13,16 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-Penn State welcomes students with disabilities into the University's educational programs. If you have a disability-related need for reasonable academic adjustments in this course, contact the Office for Disability Services (ODS) at 814-863-1807 (V/TTY). For further information regarding ODS, please visit the Office for Disability Services Web site at http://equity.psu.edu/ods/.
+## Academic Success, Learning Assistance, & Student Resources
 
-In order to receive consideration for course accommodations, you must contact ODS and provide documentation (see the documentation guidelines at https://equity.psu.edu/ods/guidelines). If the documentation supports the need for academic adjustments, ODS will provide a letter identifying appropriate academic adjustments. Please share this letter and discuss the adjustments with your instructor as early in the course as possible. You must contact ODS and request academic adjustment letters at the beginning of each semester.
+The Eberly College of Science is committed to the academic success of students enrolled in the College's courses and undergraduate programs.  When in need of help, students can utilize various College and University wide resources for learning assistance. ([https://science.psu.edu/current-students/support-network](https://science.psu.edu/current-students/support-network))
 
+<!-- For more information see: http://www.science.psu.edu/advising/success/. -->
 
-## Resources
-Academic Success, Learning Assistance, & Student Resources
+## Accomodations
+Note to Students with Disabilities:
 
-The Eberly College of Science is committed to the academic success of students enrolled in the College's courses and undergraduate programs. When in need of help, students can utilize various College and University wide resources for learning assistance.
-For more information see: http://www.science.psu.edu/advising/success/.
+Penn State welcomes students with disabilities into the University’s educational programs. Every Penn State campus has an office for students with disabilities. [Student Disability Resources (SDR) website](http://equity.psu.edu/sdr/disability-coordinator) provides contact information for every Penn State campus (http://equity.psu.edu/sdr/disability-coordinator). For further information, please visit [Student Disability Resources website](http://equity.psu.edu/sdr/) http://equity.psu.edu/sdr/).
+
+In order to receive consideration for reasonable accommodations, you must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation: See [documentation guidelines](http://equity.psu.edu/sdr/guidelines) (http://equity.psu.edu/sdr/guidelines). If the documentation supports your request for reasonable accommodations, your campus disability services office will provide you with an accommodation letter. Please share this letter with your instructors and discuss the accommodations with them as early as possible. You must follow this process for every semester that you request accommodations.
+

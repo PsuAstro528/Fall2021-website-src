@@ -17,9 +17,13 @@ lastmodifieremail = "ebf11@psu.edu"
 # Julia
 
 - [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+- [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence.](https://statisticswithjulia.org/) by  Yoni Nazarathy and Hayden Klok, Springer Series in the Data Sciences, [PDF of draft version](https://statisticswithjulia.org/StatisticsWithJuliaDRAFT.pdf).  (I recommend using the version avaliable online for free.)
+
 
 # Related Courses
 - [Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2018/) (UC Berkeley CS 267)
+
+- [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Spring21/) (MIT 18.S191)
 
 # Lawrence Livermore National Laboratory
 
