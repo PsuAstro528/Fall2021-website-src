@@ -3,7 +3,7 @@ title = "Jupyter Notebooks on ACI"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 0814
+weight = 0820
 
 chapter= false
 hidden = false

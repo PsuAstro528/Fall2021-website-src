@@ -20,7 +20,10 @@ lastmodifieremail = "ebf11@psu.edu"
 - [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 - [Introcution to Applied Linear Algebra: Vectors, Matrices and Least Squares: Julia Language Companion](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
 - [The Fast Track to Julia 1.0](https://juliadocs.github.io/Julia-Cheat-Sheet/)
+- [First Contact with Julia](assets/nb02-first-contact-julia.html)
 - [Learn Julia in Y Minutes](https://learnxinyminutes.com/docs/julia/)
+- [Julia by Example](https://juliabyexample.helpmanual.io/)
+- [Noteworthy Differences from other Languages](https://docs.julialang.org/en/v1/manual/noteworthy-differences/)
 - [Why Julia?](http://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia)
 - [Julia Tutorials](https://julialang.org/learning/)
 - [Julia Blog](https://julialang.org/blog/)
@@ -29,6 +32,10 @@ lastmodifieremail = "ebf11@psu.edu"
 - [Julia on Reddit](https://www.reddit.com/r/Julia/)
 - [Julia Twitter feed](https://twitter.com/hashtag/julialang?src=hash)
 - [Julia Slack channel](https://julialang.slack.com/)
+
+# [Pluto.jl](https://github.com/fonsp/Pluto.jl)
+
+- [Basic Commands in Pluto](https://github.com/fonsp/Pluto.jl/wiki/%F0%9F%94%8E-Basic-Commands-in-Pluto)
 
 # [Jupyter](https://jupyter.org/)
 
@@ -48,6 +55,7 @@ lastmodifieremail = "ebf11@psu.edu"
 
 # Linux Command Line
 - [Data Camp on Shell](https://www.datacamp.com/courses/introduction-to-shell)
+- [Intro to Linux Command-Line for Beginners](http://www.tuxarena.com/static/intro_linux_cli.php)
 
 # Docker
 

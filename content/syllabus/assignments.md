@@ -11,10 +11,10 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-The assessed work for this course consists of computer [lab/homework assignments]({{< relref "#lab-homework-exercises" >}}) (50%) and a [class project]({{< relref "#class-project" >}}) (50%).  There are no exams.  Contributions to [class discussion]({{< relref "#class-participation" >}}) (including submitting [reading questions]({{< relref "#readings-reading-questions" >}}) may be counted for up to 10% of the course grade (coming from lab/homework exercises). The class project will have several components and will be described in more detail below.
+The assessed work for this course consists of computer [lab/homework assignments]({{< relref "#lab-homework-exercises" >}}) (40%),  a [class project]({{< relref "#class-project" >}}) (50%) and [class discussion]({{<relref "#class-participation" >}}) (10%; including either contributing to class discussion and/or submitting [reading questions]({{< relref "#readings-reading-questions" >}}).  There are no exams.  The class project will have several components and will be described in more detail below.
 
 The planned assignment due dates are in the [schedule section](/lessons) of the syllabus.  Any revision to the due dates will be announced at the time they are assigned.  
-<!-- Assignments are due on the same day as a class session are due at least two hours prior to the beginning of class.  -->
+Assignments are due on the same day as a class session are due by 11am Eastern Time.
 If the University is closed on the due date of an assignment (due to bad weather or any other reason), then the assignment will be due two hours before the next class session (that is not canceled).
 
 
@@ -52,15 +52,10 @@ More information about the expectations for class projects and [grading rubrics]
 
 ## Readings & Reading Questions
 Students will be expected to read assignments (or review a website, watch an online presentation, or listen to audio) before class on the days indicated, so they will be prepared to participate in class discussions and/or make progress writing code for the assignment.
-
-All students should submit an average of at least one question per week about the day’s readings via email to the instructor with "Astro 528" in the subject line at least _four hours prior_ to each discussion-based class (as opposed to lab classes).  The time before class is important, so the instructor will have time to read the questions and plan how to organize the day’s discussion.  Submitting questions via email is particularly important for any student who are reluctant to ask questions in class.
-
+All students should submit an average of at least one question per week about the day’s readings via email to the instructor with "Astro 528" in the subject line by 11am Eastern Time on the day of discussion-based classes (as opposed to lab classes).  The time before class is important, so the instructor will have time to read the questions and organize the day’s discussion based on actual student questions.  
 
 ## Class Participation
-In-class discussions and coding sessions will be an important part of the course, so students should participate regularly.  If you know you need to miss class due to research travel, then let the instructor know in advance and make plans to get a classmate's notes for those sessions.
-If you feel it would be wise to participate in a class remotely due to health  concerns, then please let the instructor know as far in advance as practical.  We are likely to explore multile strategies for supporting remote participation, depending on whether the class is primarily discussion (likely Zoom) or a computer lab class (e.g., Zoom with breakout rooms for each team, VSCode's LiveShare).  
-
-My intention is for the homework portion of the class grade to be based solely on written assignments and code.  However, if I feel that some students are likely to benefit from having a greater incentive to engage in class more actively, then up to 20% of the homework score (i.e., 10% of the course grade) may be based on class participation, as measured by contributing to in-class discussion and/or submitting questions in advance of class.
+In-class discussions and coding sessions will be an important part of the course, so students should participate regularly.  Students who are reluctant to ask questions in class are encouraged to ask extra questions prior to class via email.  If you know you need to miss class due to research travel or health and public safety concerns, then let the instructor know in advance.  Depending on the circumstances you may be able to participate remotely.  We are likely to explore multile strategies for supporting remote participation, depending on whether the class is primarily discussion (likely Zoom) or a computer lab class (e.g., Zoom with breakout rooms for each team, VSCode's LiveShare).  In cases where it is not practical to participate remotely, make plans to get a classmate's notes for those sessions.
 
 ## Timeliness of assignments
 Students should start all assignments well before the due date, so they can resolve any technical difficulties well in advance of the deadline.  When assignments are discussed in class on the day they are due, then credit will be given based on what is submitted prior to class.  In cases where turning in assignments on time is not practical due to illness, family emergency, or other university-approved excuse, assignments should still be completed and turned in, but those assignments may not be included when computing the course grade.  If portions of the class project totalling more than 10% of course grade can not be completed before the course end date due to illness, family emergency, etc., then the student can elect to receive a “deferred grade” (DF) and to submit the remaining portions of the project no later than eight weeks after the course end date.  Students electing this option should be familiar with the [PSU DF policies](https://www.registrar.psu.edu/grades/deferred.cfm).

@@ -17,11 +17,11 @@ lastmodifieremail = "ebf11 at psu dot edu"
 # Week 9
 
 {{%excerpt%}}
-- Lab 6, Exercise 1
+- Lab 7, Exercise 1
    - Submit a batch job via PBS
    - Read and write data from batch job
    - Run multiple jobs using a job array
-- Lab 6, Exercise 2:
+- Lab 7, Exercise 2:
    - Reinforce programming using Distributed Arrays
    - Explain differences in performance when using multiple processor cores on same node versus using multiple processor cores on different nodes
 - Project

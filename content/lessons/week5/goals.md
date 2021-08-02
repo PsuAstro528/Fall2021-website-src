@@ -23,6 +23,8 @@ lastmodifieremail = "ebf11 at psu dot edu"
    - Profile code
    - Identify inefficiencies
    - Optimize code for serial execution
+   - Read & write models using a probabilistic programming language
+   - Estimate uncertainties in model parameters using Markov chain Monte Carlo
 {{%/excerpt%}}
 
 ## Lessons along the way
@@ -32,5 +34,10 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - Use of gradients
    - Jacobian
    - Autodifferentiation
-- `@code_warntype` & `Traceur`
+- `@code_warntype` & `JetTest.jl`
 - ProfileView
+- Statistical inference
+   - Posterior Sampling
+   - Heirarchical models
+   - Markov chain Monte Carlo
+

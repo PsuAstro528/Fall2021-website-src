@@ -20,6 +20,21 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 {{%excerpt-include filename="lessons/week3/lab.md" /%}}
 
-<!--
-TODO: Add 5, 7, 9, 10, 12
--->
+{{%excerpt-include filename="lessons/week4/lab.md" /%}}
+
+{{%excerpt-include filename="lessons/week5/lab.md" /%}}
+
+
+{{%excerpt-include filename="lessons/week8/lab.md" /%}}
+
+<br />
+
+{{%excerpt-include filename="lessons/week9/lab.md" /%}}
+
+<br />
+{{%excerpt-include filename="lessons/week11/lab.md" /%}}
+
+<br />
+{{%excerpt-include filename="lessons/week13/lab.md" /%}}
+
+

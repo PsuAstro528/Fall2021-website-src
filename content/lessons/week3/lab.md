@@ -15,7 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 
 {{%excerpt%}}
-**Memory Access, Disk I/O, DataFrames**  (due Sept 12)
+Lab 3: **Memory Access, Disk I/O, DataFrames**  (due Sept 12)
 - Exercise 1: Benchmarking File I/O <!-- & Calling Python Packages -->
 - Exercise 2: DataFrames, Join, Query
 - Exercise 3: Dense Matrix-Vector Multiply

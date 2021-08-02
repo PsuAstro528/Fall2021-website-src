@@ -36,11 +36,11 @@ For students who find it convenient to install additional software on their loca
 
   + [Julia](http://julialang.org/downloads/) with the [IJulia](https://github.com/JuliaLang/IJulia.jl) and [Pluto](https://github.com/fonsp/Pluto.jl) packages for accessing Jupyter and Pluto notebooks.
   + An [integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment) that supports Julia, such as:
-    - [VS Code](https://code.visualstudio.com/) and the [Julia for VSCode extension](https://www.julia-vscode.org/docs/dev/)
-    - [Atom text editor](https://flight-manual.atom.io/getting-started/sections/installing-atom/) and the [Juno](https://junolab.org/) extension
+    - [VS Code](https://code.visualstudio.com/) and the [Julia for VSCode extension](https://www.julia-vscode.org/docs/dev/) (recommended)
+    - [Atom text editor](https://flight-manual.atom.io/getting-started/sections/installing-atom/) and the [Juno](https://junolab.org/) extension (no longer supported)
+  + [Jupyter](http://jupyter.org/install)
 
 <!-- Other software students might try
-  + [Jupyter](http://jupyter.org/install)
   + [GitHub Desktop](https://desktop.github.com/) and 
   + [GitKraken](https://www.gitkraken.com/git-client)
 -->
@@ -56,7 +56,7 @@ Some students may prefer to setup their system using a [Docker container](https:
 
 ## Accounts
 
-- All students should [request an ACI account](https://www.icds.psu.edu/computing-services/account-setup/) before the second class meeting.  On the account request form, specify ebf11 as the sponsor account and listing Astro528 as the research description.  (You can leave computational and Data Requirements box blank, since they already know what will be required for the class.)  Students who already have an ACI account should contact [i-ASK](https://iask.aci.ics.psu.edu/) to request that they add your account to the Astro 528 group.
+- All students should [request an ACI account](/tips/aci/create_account/) (via the[ICDS website](https://www.icds.psu.edu/computing-services/account-setup/) before the second class meeting.  
 - Students should create an account on [GitHub](http://github.com/).  Note that we will examine and discuss student's code both during class and via peer code review.  Students may choose to protect their privacy by choosing a github account id that does not identify them.  Students may wish to create a separate github account just for this class, so as to avoid being identified by other projects.
 - Prior to the second class meeting, students should send the instructor their PSU and GitHub userids.
 <!-- - Students should create a [Travis-CI_.com_](https://travis-ci.com/) that is linked to their GitHub account.  The easiest way is by signing in with your github id. -->

@@ -16,18 +16,10 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 # Week 7
 {{%excerpt%}}
-- Lab 5, Exercise 1
-   - Read & write models using a probabilistic programming language
-   - Estimate uncertainties in model parameters using Markov chain Monte Carlo
 - Project
-   - Preparing for a code review
-   - Use [GitHub Issues](https://guides.github.com/features/issues/) to report issues
+   - Provide constructive feedback in code review
+   - Use [GitHub Issues](https://guides.github.com/features/issues/) to manage tasks for code base
 - Readings / Discussions
    - Evaluating the suitability of a problem for different parallel architectures
 {{%/excerpt%}}
 
-## Lessons along the way
-- Statistical inference
-   - Posterior Sampling
-   - Heirarchical models
-   - Markov chain Monte Carlo

@@ -23,15 +23,20 @@ lastmodifieremail = "ebf11 at psu dot edu"
    + Access ICDS-ACI Portal's Jupyter Notebook Server using Julia Kernel
    + Optionally access Julia+Git on your own computer
    + Use Git & GitHub.com for retreiving and submitting lab assignments
-- Exercise 2: Floating Point Arithmetic, Functions, Tests
+   + Use variables, strings and Markdown in Julia
+   + Use unit tests
+- Exercise 2: Floating Point Arithmetic, Functions
    + Write code as a function
    + Use/write tests of code
    + Become vigilant about potential pitfalls with floating-point arithmetic
-- Exercise 3: Develop personal goals for semester 
+- Exercise 3: Develop your personal goals for semester 
 {{%/excerpt%}}
 
 ## Lessons along the way
 
-- Strings, Modules, Namespace, Types, include
-- Packages, Functions, Docstrings, Pseudo-random numbers, Broadcasting, Single & double precssion, Type stability, Online algorithms
-- Write markdown text
+- Types: Strings, Single & double precssion
+- Writing markdown text
+- Modules, Packages, Namespace
+- using/import, include
+- Functions, Docstrings
+- Pseudo-random numbers, Broadcasting, Type stability, Online algorithms

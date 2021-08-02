@@ -13,14 +13,18 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-# Grading Rubric for second parallelization method
+# Grading Rubric for Final Project Submission
 {{%excerpt%}}
-- Choice of portion of code to parallelize (1 point)
-- Choice of approach for parallelizing code (1 point)
-- Code performs proposed tasks (2 point)
-- Unit/regression tests comparing serial & parallel versions (1 point)
-- Code passes tests (1 point)
-- General code efficiency (1 point)
-- Implementation/optimization of second type of parallelism (2 points)
-- Significant performance improvement (1 point)
+- Results of benchmarking code (typically included in project README, but more comprehensive benchmarking could be in a separate document, notebook or directory) 
+   - Performance versus problem size for fixed number of workers (1 point) 
+   - Performance versus number of workers for fixed problem size (1 point)
+- Documentation:  
+   - README:  (1 point)
+      - Project overview 
+      - Instructions on how to install and run code
+      - CI testing or detailed instructions on how to rerun tests
+      - Results of benchmarking and/or pointer to where results can be found
+      - Overview of code/package structure (if project is larger than one notebook)
+   - Docstrings: Coverage, clarity and quality (1 point)
+- Summary of lessons learned (1 point)
 {{%/excerpt%}}

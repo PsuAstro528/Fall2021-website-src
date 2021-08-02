@@ -3,7 +3,7 @@ title = "Initial Setup for Astro 528 on ACI"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 0812
+weight = 0814
 
 chapter= false
 hidden = false

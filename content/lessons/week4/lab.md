@@ -14,5 +14,17 @@ lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
 
+{{%excerpt%}}
+Lab 4: **Probabilistic Programming** (due Sept 19)
+- Exercise 1
+- TBD
+<br />
+{{%/excerpt%}}
+<!--
+[Lab 4 Git Repository](https://github.com/PsuAstro528/lab4-start) (due Aug 27) -->
+<!--
+ [Exercise 1: Probabilistic Programming & Uncertainty Estimation via MCMC](https://nbviewer.jupyter.org/github/PsuAstro528/lab5-start/blob/master/ex1.ipynb)
+-->
 
-{{%excerpt-include filename="lessons/week5/lab.md" /%}}
+{{% children depth="1" %}}
+

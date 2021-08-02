@@ -19,8 +19,9 @@ The class project consists of several parts, each of which has its own submissio
 - Checkpoint 1: [Serial version of code](#serial-version-of-code) (10 points)
 - Checkpoint 2: [Multi-core version of code](#first-parallel-version-of-code) (10 points)
 - [Peer code reviews](#peer-code-reviews) (5 points)
-- Checkpoint 3: [Distributed-memory/GPU/Phi/Cloud version of code](#second-parallel-version-of-code) (10 points)
-- [Project Presentation](#project-presentation) (10 points)
+- Checkpoint 3: [Distributed-memory/GPU/TPU/Cloud version of code](#second-parallel-version-of-code) (10 points)
+- Final Submission: [Completed project code with documetation, benchmarking results and summary of lessons learned.](#final-submission) (5 points)
+- [Project Presentation](#project-presentation) (5 points)
 
 The grading rubric for each part of the proposal is provided below.
 
@@ -44,10 +45,12 @@ Typically, the first parallel version runs on multiple cores using a shared memo
 
 {{%excerpt-include filename="lessons/week11/project.md" /%}}
 
-## Completed Project:
 ### Submit second parallel version of code
-Typically, the second parallel version of the code is parallelized using one of: 1) multiple cores with distributed-memory, GPU, Intel Phi, or a cloud provider.
+Typically, the second parallel version of the code is parallelized using one of: multiple cores with distributed-memory or a GPU.  Other alternatives include using Intel Phis, TPUs, or a cloud environment like JuliaHub.
 
+{{%excerpt-include filename="lessons/week13/project.md" /%}}
+
+### Completed Project:
 {{%excerpt-include filename="lessons/week14/project.md" /%}}
 
 ### Project Presentation

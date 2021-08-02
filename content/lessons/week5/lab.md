@@ -15,11 +15,15 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 
 {{%excerpt%}}
-**Profiling, Optimization** <br />
+Lab 5: **Profiling, Optimization** (due Sept 26)
+- Exercise 1
+- TBD
+<br />
 {{%/excerpt%}}
 <!-- 
 [Lab 4 Git Repository](https://github.com/PsuAstro528/lab4-start) (due Aug 27) -->
 <!--
 - [Exercise 1: Optimization Problems & Optimizing Serial Code](https://nbviewer.jupyter.org/github/PsuAstro528/lab3-start/blob/master/ex1.ipynb)
+ [Exercise 1: Probabilistic Programming & Uncertainty Estimation via MCMC](https://nbviewer.jupyter.org/github/PsuAstro528/lab5-start/blob/master/ex1.ipynb)
 -->
 

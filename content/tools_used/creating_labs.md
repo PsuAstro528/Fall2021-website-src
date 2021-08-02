@@ -16,7 +16,7 @@ lastmodifieremail = "ebf11@psu.edu"
 
 ### Create Development repostiory from template:
    - Create an empty _private_ repository named labN-dev at GitHub.
-      + Go to https://github.com/PsuAstro528, click New
+      + Go to the [class organization page at GitHub](https://github.com/PsuAstro528), click New
       + Repository Name: labN-dev
       + Description: Lab N
       + Private
@@ -28,15 +28,14 @@ lastmodifieremail = "ebf11@psu.edu"
    - copy files from template repository (lab-template) into labN-dev directory
 
 ```shell
-cp ../lab-template/* .
-cp ../lab-template/{.gitignore,.travis.yml} .
-cp -r ../lab-template/test .
+cp -r ../lab-template/* .
+cp -r ../lab-template/{.gitignore,.github} .
 ```
 
 ### Commit template files 
 
 ```shell
-git add .gitignore .travis.yml docker-compose.yml environment.yml LICENSE README.md REQUIRE test
+git add .gitignore .github docker-compose.yml environment.yml LICENSE README.md test
 git commit -m "template"
 ```
 

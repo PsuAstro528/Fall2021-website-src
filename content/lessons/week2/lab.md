@@ -15,7 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
 {{%excerpt%}}
-**Assertions, Unit Testing, Countinuous Integrations, Benchmarking** 
+Lab 2: **Assertions, Unit Testing, Countinuous Integrations, Benchmarking** 
 (due Sept 5) <br>
 - Exercise 1: Benchmarking, Big-O Analysis, Compute vs Memory Limits
 - Exercise 2: Numerical Stability of N-body Integration

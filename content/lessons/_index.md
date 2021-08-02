@@ -50,6 +50,8 @@ Week 10
 Week 11
 
 Week 12
+
+Week 13
 -->
 
 ---
@@ -59,20 +61,24 @@ Week 12
 {{<excerpt-include filename="lessons/week1/lab.md" />}}
 {{<excerpt-include filename="lessons/week2/lab.md" />}}
 {{<excerpt-include filename="lessons/week3/lab.md" />}}
-
-TODO: Add remaining labs
+{{<excerpt-include filename="lessons/week4/lab.md" />}}
+{{<excerpt-include filename="lessons/week5/lab.md" />}}
+{{<excerpt-include filename="lessons/week8/lab.md" />}}
+{{<excerpt-include filename="lessons/week9/lab.md" />}}
+{{<excerpt-include filename="lessons/week11/lab.md" />}}
+{{<excerpt-include filename="lessons/week13/lab.md" />}}
 
 ---
 
 <a id="project"></a>
 # Class Project Schedule
-- Project proposal (due Sept 16)
-- Serial version of code (due Oct 6)
-- Peer code review (due Oct 14)
-- Parallel version of code (multi-core) (due Nov 4)
+- Project proposal (due Sept 13)
+- Serial version of code (due Oct 4)
+- Peer code review (due Oct 11)
+- Parallel version of code (multi-core) (due Nov 1)
 - Second parallel version of code (distributed-memory/GPU/cloud) (due Nov 18)
-- Completed code & documentation (due Dec 2)
-- Class presentations ([Nov 30 - Dec 10, detailed schedule](https://github.com/PsuAstro528/PresentationsSchedule2021) )
+- Completed code, documentation, tests, packaging (optional) & reflection (due Dec 2)
+- Class presentations ([Nov 29 - Dec 9, detailed schedule](https://github.com/PsuAstro528/PresentationsSchedule2021) )
 
 
 ---

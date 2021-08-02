@@ -1,9 +1,9 @@
 +++
-title = "Week 11: GPU Programming"
+title = "Week 13: Packaging & Reproducibility"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 11101  #wwdpp
+weight = 12101  #wwdpp
 
 chapter= true
 
