@@ -17,6 +17,8 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 {{%excerpt%}}
 Lab 6: **Parallel Programming I: Shared-memory systems** (due Oct 17)
+- Exercise 1
+- TBD
 <br />
 {{%/excerpt%}}
 <!--
