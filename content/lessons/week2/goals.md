@@ -26,17 +26,13 @@ lastmodifieremail = "ebf11 at psu dot edu"
    + Integrate differential equations
    + Compare the accuracy and numerical stability of results as a function of time step, order and integration
    + Appreciate importance of numerical stability
-{{%/excerpt%}}
-<!-- 
-- Exercise 3: Model for Radial Velocity of a Star
-   + Practice _documenting_ your functions effectively
+- Exercise 3: Assertions, Unit Tests & Continuous Integration Testing
    + Write effective tests for floating point calculations
-   + Reduce bugs via _composite types_ and _named function parameters_
    + Reduce bugs via _assertions_
    + Identify bugs promptly via _unit testing_
    + Identify bugs promptly via _continuous integration testing_
    + End-to-end Testing to validate code
--->
+{{%/excerpt%}}
 
 ## Lessons along the way
 
