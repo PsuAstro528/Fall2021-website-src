@@ -13,7 +13,7 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-# Submit First Parllel Code for Project
+# Submit First Parallel Code for Project
 {{%excerpt%}}
 - Choice of portion of code to parallelize (1 point)
 - Choice of approach for parallelizing code (1 point)

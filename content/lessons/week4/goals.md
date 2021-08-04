@@ -31,6 +31,6 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - Out of order execution
 - Cache: levels, lines, latency, associative
 - Code introspection
-- Type stability: `@code_warntype`
+- Type stability: `@code_warntype`, [JETTest.jl](https://aviatesk.github.io/JETTest.jl/dev/)
 - Strict typing, sub-types, union types
 - Performance impact of `global`'s

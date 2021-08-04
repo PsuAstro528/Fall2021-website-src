@@ -15,11 +15,11 @@ lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
 {{%excerpt%}}
-[Lab 2: **Assertions, Unit Testing, Countinuous Integrations, Benchmarking**](https://github.com/PsuAstro528/lab2-start) 
+[Lab 2: **Assertions, Unit Testing, Countinuous Integrations, Benchmarking**](https://github.com/PsuAstro528/lab2-start)
 (due Sept 5) <br>
 - [Exercise 1](https://psuastro528.github.io/lab2-start/ex1.html): Benchmarking, Big-O Analysis, Compute vs Memory Limits
-- [Exercise 2](https://psuastro528.github.io/lab2-start/ex2.html): Numerical Stability of N-body Integration
-<!-- - Exercise 3: Unit Testing for Floating Point Arithmetic, Defensive Programming, Assertions, Continuous Integration, End-to-end testing, Validation -->
+- [Exercise 2](https://psuastro528.github.io/lab2-start/ex2.html): Numerical Stability of N-body
+- [Exercise 3](https://psuastro528.github.io/lab2-start/ex3.html): Assertions, Unit Tests & Continuous Integration Testing
 
 {{%/excerpt%}}
 

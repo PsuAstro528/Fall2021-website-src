@@ -3,7 +3,7 @@ title = "Technology used"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 1050
+weight = 1200
 include_toc = true
 
 creatordisplayname = "Eric Ford"
@@ -32,7 +32,7 @@ lastmodifieremail = "ebf11@psu.edu"
 
 ---
 ## [Pluto notebooks](https://github.com/fonsp/Pluto.jl)
-- For integrated lessons, tutorials, labs encouraging literate computing and avoiding confusion due to notebook state 
+- For integrated lessons, tutorials, labs encouraging literate computing and avoiding confusion due to notebook state
 
 ---
 ## [Jupyter notebooks](https://jupyter.org/)
