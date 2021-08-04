@@ -18,7 +18,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 {{%excerpt%}}
 - Lab 8, Exercise 1
-   - Run GPU code on ICS-ACI
+   - Run GPU code on ICDS-ACI
    - Accelerate linear algebra computations with GPU
    - Recognize what problem sizes and likely to result in acceleration with a GPU for linear algebra
 - Lab 8, Exercise 2:
@@ -32,7 +32,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
    - Recognize when a custom kernel is likely improve GPU performance
 - Project
    - Parallelize real world code
-   - Acheive significant performance benefit via parallelization
+   - Achieve significant performance benefit via parallelization
 {{%/excerpt%}}
 
 ## Lessons along the way

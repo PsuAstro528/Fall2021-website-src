@@ -15,20 +15,13 @@ lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
 {{%excerpt%}}
-Lab 2: **Assertions, Unit Testing, Countinuous Integrations, Benchmarking** 
+[Lab 2: **Assertions, Unit Testing, Countinuous Integrations, Benchmarking**](https://github.com/PsuAstro528/lab2-start) 
 (due Sept 5) <br>
-- Exercise 1: Benchmarking, Big-O Analysis, Compute vs Memory Limits
-- Exercise 2: Numerical Stability of N-body Integration
-- Exercise 3: Unit Testing for Floating Point Arithmetic, Defensive Programming, Assertions, Continuous Integration, End-to-end testing, Validation
+- [Exercise 1](https://psuastro528.github.io/lab2-start/ex1.html): Benchmarking, Big-O Analysis, Compute vs Memory Limits
+- [Exercise 2](https://psuastro528.github.io/lab2-start/ex2.html): Numerical Stability of N-body Integration
+<!-- - Exercise 3: Unit Testing for Floating Point Arithmetic, Defensive Programming, Assertions, Continuous Integration, End-to-end testing, Validation -->
 
 {{%/excerpt%}}
-
-<!-- 
-[Lab 2 Git Repository](https://github.com/PsuAstro528/lab2-start) 
-- [Exercise 1: Benchmarking, Big-O Analysis, Compute vs Memory Limits](https://nbviewer.jupyter.org/github/PsuAstro528/lab2-start/blob/master/ex1.ipynb)
-- [Exercise 2: Numerical Stability of N-body Integration](https://nbviewer.jupyter.org/github/PsuAstro528/lab2-start/blob/master/ex2.ipynb)
-- [Exercise 3: Unit Testing for Floating Point Arithmetic, Defensive Programming, Assertions, Continuous Integration, End-to-end testing, Validation](https://nbviewer.jupyter.org/github/PsuAstro528/lab2-start/blob/master/ex3.ipynb)
--->
 
 ### Lessons / Resources
 - [Getting Started with Julia on ACI](/tips/aci)

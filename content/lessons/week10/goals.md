@@ -22,5 +22,5 @@ lastmodifieremail = "ebf11 at psu dot edu"
    - Identify changes need to acheive significant performance benefit via parallelization
 - Readings / Discussions
    - Describe how GPU differs from CPU
-   - Assess the prospects for a given algorithm to acheive a significant speed-up using a GPU
+   - Assess the prospects for a given algorithm to achieve a significant speed-up using a GPU
 {{%/excerpt%}}

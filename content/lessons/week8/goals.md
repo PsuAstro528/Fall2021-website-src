@@ -17,14 +17,14 @@ lastmodifieremail = "ebf11 at psu dot edu"
 # Week 8
 
 {{%excerpt%}}
-- Lab 6
-   - Choose an appropriate number of worker processors for your compute node
-   - Load code and packages on worker nodes
-   - Parallelize code using pmap
-   - Parallelize code using SharedArray's
-   - Parallelize code using map and mapreduce on DistributedArray's
-   - Parallelize code using @distributed for loop
-   - Parallelize code using Threads.@threads
+- Lab 6:  Shared Memory Computing Patterns
+   - Choose an appropriate number of worker processors for your compute node & problem
+   - Parallelize code for shared memory model, using patterns such as:
+      + [FLoops.jl](https://juliafolds.github.io/FLoops.jl/dev/) and `ThreadedEx` (recommended)
+      + [Threads.@threads](https://docs.julialang.org/en/v1/manual/multi-threading/#The-@threads-Macro) and/or [ThreadsX.jl](https://tkf.github.io/ThreadsX.jl/dev/) for for loops (recommended)
+      + [Folds.jl](https://github.com/JuliaFolds/Folds.jl) (alternative)
+      + [SharedArray]'s[https://docs.julialang.org/en/v1/stdlib/SharedArrays/] (alternative)
+
 - Readings / Discussions
    - Evaluating the suitability of a problem for different parallel architectures
 {{%/excerpt%}}

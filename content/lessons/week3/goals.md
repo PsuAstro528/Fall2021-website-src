@@ -26,7 +26,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - Class Project
    - Apply "Programming in the Large" to your class project
    - Choose appropriate file format for a project
-   - Choose appropraite memory layout & data structures for a project
+   - Choose appropriate memory layout & data structures for a project
 {{%/excerpt%}}
 
 ## Lessons along the way

@@ -14,7 +14,7 @@ lastmodifieremail = "ebf11@psu.edu"
 
 # Workflow for creating lab assignments
 
-### Create Development repostiory from template:
+### Create Development repostiory on GitHub:
    - Create an empty _private_ repository named labN-dev at GitHub.
       + Go to the [class organization page at GitHub](https://github.com/PsuAstro528), click New
       + Repository Name: labN-dev
@@ -22,26 +22,36 @@ lastmodifieremail = "ebf11@psu.edu"
       + Private
       + Uncheck Initialize README, .gitignore: None, License: None
       + Create repository- Change into directory of lab exercises
-   - Change into directory of lab exercises `cd ~/Teach/Astro528/Fall2021/exercises`
-   - `git clone git@github.com:PsuAstro528/labN-dev.git`
-   - `cd labN-dev`
-   - copy files from template repository (lab-template) into labN-dev directory
 
+### Create local development repository 
+- Change into directory of lab exercises `cd ~/Teach/Astro528/Fall2021/exercises`
+- Create new Julia package with Project.toml file for the lab and add common packages.
+```julia
+using Pkg
+Pkg.generate("labN")
+Pkg.activate("labN")
+Pkg.add(["InteractiveUtils","Markdown","PlutoUI","PlutoTeachingTools","LaTeXStrings"])
+```
+
+- Add template files from template repository (lab-template) into labN-dev directory
 ```shell
+mv labN labN-dev
+cd labN-dev
 cp -r ../lab-template/* .
 cp -r ../lab-template/{.gitignore,.github} .
 ```
-
-### Commit template files 
+### Make local repository and commit template files 
 
 ```shell
-git add .gitignore .github docker-compose.yml environment.yml LICENSE README.md test
+git init
+git add .gitignore .github docker-compose.yml environment.yml LICENSE README.md src test
 git commit -m "template"
 ```
 
-### Rename to use main branch and push to GitHub
+### Rename to use main branch, connect to remote repo and push to GitHub
 ```shell
 git branch -m master main
+git remote add origin git@github.com:PsuAstro528/labN-dev.git
 git push -u origin main
 ```
 
@@ -49,38 +59,32 @@ git push -u origin main
 ```shell
 git checkout -b solution
 ```
-### Make exercises (named exN.ipynb) and tests (named test/testN.jl)
-   - Indicate code to be removed with SOLUTION in comments so easy to find.
+### Make exercises (named exN.jl or exN.ipynb) and tests (named test/testN.jl)
+   - Indicate code to be removed with missing in Pluto notebooks, so its easy to find.  
+   - For Jupyter notebooks add comment SOLUTION.
 
 ```shell
-git add ex?.ipynb test/test?.jl
+git add ex?.jl ex?.ipynb test/test?.jl
 git commit -m "new exercise"
 ```
-   - Test each exercise as you go:  `julia -e 'include("test/test1.jl")'`
-   - Test as a group:  `julia -e 'include("test/runtests.jl")'`
+### Setup test directory
+Once assignments is ready for continuous integration testing, create/update the Project.toml file in test directory to include needed packages:
+   - `julia -e 'using Pkg; Pkg.activate("test"); Pkg.add(["Test","InteractiveUtils","Markdown","PlutoUI","PlutoTeachingTools","LaTeXStrings"])'`
+   - Add any other packages required by any notebook to test/Project.toml
+   - Test each exercise as you go:  `julia --project=test -e 'include("test/test1.jl")'`
+   - Test as a group:  `julia --project=test -e 'include("test/runtests.jl")'`
 
-### Setup Project.toml
-Once assignments is ready for continuous integration testing, create/update the Project.toml file in test directory to include needed packages
 
-```julia
-cd("test")
-]
-activate ..
-add NBInclude
-add Weave
-add Glob
-```
-
-Add Project.toml to the repo and make remote solution branch track local solution branch
+- Add Project.toml to the repo and make remote solution branch track local solution branch
 ```shell
-git add test/Project.toml
-git commit -m "for exN"
+git add test/Project.toml test/test?.jl
+git commit -m "tests for exN"
 git push -u origin solution`
 ```
 
 ### Check solution passes CI testing
 
-Check status of test at https://github.com/PsuAstro528/labN-dev/ .
+Check status of tests from Github Actions tab https://github.com/PsuAstro528/labN-dev/actions .
 
 
 ### Make Julia Markdown version of solutions
@@ -99,18 +103,20 @@ julia -e 'using Weave; convert_doc("exN.ipynb","exN.jmd");'
 git add ex?.jl ex?.jmd; git commit -m "convert from ipynb"
 ```
 
-- Checkout main branch and add jmd files from solution branch
+- Checkout main branch and add notebook, Project and test files from solution branch.
 ```shell
 git checkout main
 git checkout solution exN.jl
 git checkout solution exN.jmd
 git checkout solution test/testN.jl
+git checkout solution Project.toml
+git checkout solution test/Project.toml
 ```
 
 - Edit each exN.jl and/or exN.jmd to remove code
    - Search for SOLUTION and remove code not for students to see
    - (Note to future self: Should I automate this?)
-   - Recreate cleaned Jupyter notebook files exN.ipynb
+   - Recreate any cleaned Jupyter notebook files exN.ipynb
 
 ```shell
 julia -e 'using Weave; convert_doc("ex1.jmd","ex1.ipynb");'
@@ -142,11 +148,11 @@ Create starter repostiory on GitHub.com from development repository
    - `rm -rf .git`
    - `git init`
    - `git remote add origin git@github.com:PsuAstro528/labN-start.git`
-   - Edit .travis.yml to no longer just test solution and now exclude original branch
+<!--   - Edit .travis.yml to no longer just test solution and now exclude original branch -->
 
 ```shell
 git add *
-git add .gitignore # .travis.yml
+git add .gitignore .github # .travis.yml
 git commit -m "init"
 git branch -m master main
 git push --set-upstream origin main

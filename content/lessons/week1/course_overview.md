@@ -173,27 +173,27 @@ ___
 For your first lab session, you'll:
 - Follow link for lab 1 from Canvas announcement
 - View _your_ new repository on [Github](https://github.com)
-- Login to where you'll run your Jupyter notebooks (with Julia kernel)
+- Login to where you'll run your code
    + [ICDS-ACI Portal](http://portal.aci.ics.psu.edu/)
    + [Install locally](https://julialang.org/downloads) (not for today)
 - _Clone_ your "repo" for the lab
-- Start working through ex1.ipynb, then ex2.ipynb
+- Start Pluto notebook server
+- Start working through ex1.jl, then ex2.jl, ...
 
-There are [more detailed instructions](../resources) on the website. 
+There are [more detailed instructions](/tips) on the website. 
 <!-- about doing these using the [ICS-ACI Portal](http://portal.aci.ics.psu.edu/). -->
 ___
 ### Commiting Changes 
 
-- Need to UPDATE for Fall
 - _Commit_ your changes to local "repo"
 - Can commit Pluto notebooks directly as .jl files.
-- For Jupyter notebooks, first make a markdown version for human-readable version control 
+- Later one when using Jupyter notebooks
+  + First make a markdown version for human-readable version control 
   + Use Weave's convert_doc to conver Jupyter notebook (ex1.ipynb) into Julia Markdown (ex1.jmd)
   + Add & commit both ex?.ipynb and ex?.jmd files to your local repo
 - Before signing off for the session, "push" your commits to GitHub
-- When done with lab, create a _pull request_ to merge your work into the _branch_ named "original".
 
-- See [more detailed instructions](lessons/week1/how-to-use-aci/#commit-push) &
+- See [more detailed instructions](/tips/submitting) &
   ask questions as you go
 ___
 </section>
