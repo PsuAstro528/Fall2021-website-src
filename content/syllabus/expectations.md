@@ -11,6 +11,9 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
+## Safety
+Students are required to follow all Penn State requirements related to safety, particularly in relation to the COVID-19 pandemic.  All students, faculty, staff and visitors are required to wear masks at all times in all indoor public spaces, including the classroom.  Students are expected to wear masks properly, covering the bridge of their nose and under their chin.  While some students may be comfortable working closely with a partner, others may prefer to maintain physical distance.  Students are expected to respect others' requests for physical distancing.  
+
 ## Etiquette
 Students are expected to be civil and considerate in class.  In particular, we want to create an environment where everyone feels comfortable asking questions and sharing imperfect code.  Students should refrain from any actions that distract their classmates, instructor or the class.  It's understandable the cell phones will often be used for two factor authentication, but they should be silenced and put away during class once you've authenticated.  Taking notes on laptops or looking up information relevant to class discussion is encouraged.  However, apps and windows unrelated to the class should be closed throughout class.
 

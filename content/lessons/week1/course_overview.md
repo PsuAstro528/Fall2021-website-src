@@ -40,8 +40,18 @@ Eric Ford
 ---
 ## Safety & Respect
 ___
-### University Policy
-As of June 28, masks are optional for those who are fully vaccinated (two weeks after the second dose in a two-dose series or two weeks after a single-dose vaccine), including in classroom, advising, and student services spaces. Unvaccinated individuals must continue to wear masks indoors at all times.
+### Masks
+- As of August 4, all students, faculty, staff and visitors are required to wear masks at all times in all indoor public spaces, including the classroom.  
+- Students are expected to wear masks properly, covering the bridge of their nose and under their chin.  
+- Studies indicate that surgical masks are much more effective than cotton masks.   
+
+___
+### Physical Distancing
+
+- While some students may be comfortable working closely with a partner, others may prefer to maintain physical distance.  
+- Students are expected to respect others' requests for physical distancing.  
+- It's ok to change one's mind mid-semester, as we learn more about the situation.
+
 ___
 ### Please err on the side of caution
 - If not feeling well, please stay home.
@@ -51,8 +61,6 @@ ___
 ___
 - Being extra cautious in class will help peers and instructor to focus on learning, rather than worrying about their safety.
 - If engage in less safe activities outside of class, please take precautions.
-___
-###
 ---
 ## Course goals
 
