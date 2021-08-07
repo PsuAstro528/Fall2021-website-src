@@ -29,12 +29,11 @@ We will also make use of a variety of web resources, likely including:
 - [“Best Practices for Scientific Computing”](http://arxiv.org/abs/1210.0530) (Wilson et al. 2012)
 - [“What Every Programmer Should Know about Floating-Point Arithmetic”](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/02Numerics/Double/paper.pdf) (Goldberg 1991)
 - [“What Every Programmer Should Know about Memory”](http://www.akkadia.org/drepper/cpumemory.pdf) (Drepper 2007)
+- [Bayesian Statistics using Julia and Turing](https://storopoli.io/Bayesian-Julia/)
 - [Introduction to Parallel Computing](https://computing.llnl.gov/tutorials/parallel_comp/) (Blaise Barney)
 - [Introduction to High-Performance Computing](http://dx.doi.org/10.5281/zenodo.49897) by Eijkhout, Chow & van de Geijn (2006)
 - [Parallel Programming in MPI and OpenMP](https://pages.tacc.utexas.edu/~eijkhout/pcse/html/index.html) by Eijkhout (2017)  --- [pdf version](https://tinyurl.com/vle335course) --- [source](https://bitbucket.org/VictorEijkhout/parallel-programming-public/src)
 - [The Why’s and How’s of Licensing Scientific Code](http://www.astrobetter.com/blog/2014/03/10/the-whys-and-hows-of-licensing-scientific-code/)
-- [OpenACC slides from NVIDIA](https://hpc.llnl.gov/sites/default/files/2014.09.15-16.NVIDIA-OpenACC_0.pdf)
-- [Introduction to Parallel Programming with GPUs & CUDA](https://www.udacity.com/course/cs344) at Udacity
 - [Docker Orientation](https://docs.docker.com/get-started/)
 
 ## Additional Julia Resources
