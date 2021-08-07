@@ -1,6 +1,6 @@
 +++
 title = "Running Jupyter on a GPU node"
-weight = 830
+weight = 840
 type="page"
 include_toc = true
 

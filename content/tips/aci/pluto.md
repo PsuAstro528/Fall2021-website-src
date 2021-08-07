@@ -1,9 +1,9 @@
 +++
-title = "Jupyter Notebooks on ACI"
+title = "Pluto Notebooks on ACI"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 0824
+weight = 0820
 
 chapter= false
 hidden = false
@@ -32,9 +32,10 @@ Each time in the future you want to start a Jupyter notebook session on ICDS-ACI
     + Click _Launch_
     + Wait while your job starts
 - Once the _Connect to JupyterLab Server_ button appears, click it
-    + The top row of tiles (labeled "Notebook") should include a tile labeled "Julia 1.6.0".  Click it.  
-    + A new browser tab should open where you can work with a Jupyter notebook using a Julia kernel interactively.
-    + Do your work, remembering to save your notebook after key edits and before you quit.
+    + The top row of tiles (labeled "Notebook") should include a tile labeled "Pluto.jl".  Click it.  
+    + A new browser tab should open with a Pluto session.
+    + For a blank notebook, click "new notebook", or enter the path to a notebook you'd like to open in the text box under "Open from file" and click the "Open" button. 
+    + Do your work, remembering to save your notebook before you quit.
 - See [Starting & Submittiing Assignments](/tips/submitting) for more information on accessing and submitting assignments.
 - When you're done, close notebook tabs and click logout in upper right (of the Jupyter server session).
 - Go back to the "My Interactive Sessions" tab in the ACI Portal, click "Delete" for this Sessions and confirm.
