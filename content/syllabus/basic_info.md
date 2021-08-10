@@ -17,6 +17,6 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - Instructor: Eric Ford
 - Email: ebf11 at psu dot edu
 - Phone: x3-5558
-- Office Hours: Thursdays 3-4pm (or by appointment) via Zoom (see meeting ID inside Canvas)
+- Office Hours: Fridays 1:30-2:30pm (or by appointment) via Zoom (see meeting ID inside Canvas)
 - Website: https://psuastro528.github.io/
 

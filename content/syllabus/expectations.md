@@ -46,7 +46,7 @@ Students should start all assignments well before the due date, so they can reso
 
 
 ## Recordings of classes
-In anticipation that some students may miss classes due to health and safety concerns, classes may be recorded.  For any students who prefer to not ask questions while being records are encouraged to submit questions via email in advance of class.  
+In anticipation that some students may miss classes due to health and safety concerns, classes may be recorded.  For any students who prefer to not ask questions while being records are encouraged to [submit questions in advance of class](/syllabus/assignments/#readings--reading-questions).
 
 Video and audio recordings of classes (whether in-person or via Zoom) may be part of the class activities. Any video and audio recordings are used for educational use/purposes and only may be made available to all students presently enrolled in the class. For purposes where the recordings will be used in future class sessions/lectures, any type of identifying information will be adequately removed.
 
