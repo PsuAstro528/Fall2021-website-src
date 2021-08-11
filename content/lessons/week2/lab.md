@@ -16,7 +16,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 {{%excerpt%}}
 [Lab 2: **Assertions, Unit Testing, Countinuous Integrations, Benchmarking**](https://github.com/PsuAstro528/lab2-start)
-(due Sept 5) <br>
+(due Sept 9) <br>
 - [Exercise 1](https://psuastro528.github.io/lab2-start/ex1.html): Benchmarking, Big-O Analysis, Compute vs Memory Limits
 - [Exercise 2](https://psuastro528.github.io/lab2-start/ex2.html): Numerical Stability of N-body
 - [Exercise 3](https://psuastro528.github.io/lab2-start/ex3.html): Assertions, Unit Tests & Continuous Integration Testing

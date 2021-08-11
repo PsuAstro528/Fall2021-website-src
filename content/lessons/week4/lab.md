@@ -15,7 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 
 {{%excerpt%}}
-Lab 4: **Probabilistic Programming** (due Sept 19)
+Lab 4: **Higher-level Languages & Probabilistic Programming** (due Sept 23)
 - Exercise 1
 - TBD
 <br />

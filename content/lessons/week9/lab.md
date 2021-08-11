@@ -15,7 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 
 {{%excerpt%}}
-Lab 7:  **Parallel Programming II: Batch Jobs & Distributed Memory**  (due Oct 24)
+Lab 7:  **Parallel Programming II: Batch Jobs & Distributed Memory**  (due Oct 28)
 - Exercise 1
 - TBD
 <br />
