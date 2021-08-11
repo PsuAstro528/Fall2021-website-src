@@ -14,7 +14,7 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-## Need to update this page for Fall 2021 
+## Need to update this page for Fall 2021
 
 ## Instructions for Completing Labs via ICS ACI Portal
 1.  [Clone your Github Repository on ACI](#clone-repo) (only need to do once per assignment)
@@ -28,7 +28,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 <a id="clone-repo"></a>
 ### Clone your github repository to begin a new assignment
 
-- Request a Jupyter notebook session on ACI (see [getting started](aci/#start-jupyter))
+- Request a "**BYOE Jupyter server**" session via the [ACI portal](https://portal.aci.ics.psu.edu/) (see [getting started](aci/#start-jupyter))
 - While waiting for it to start, let's get the url for the repo to be cloned.
     + If you haven't followed the link to create your repo for this week's assignment, do that now.  Following that link should trigger GitHub to create a private git repository named labN-GITHUBID (where N is the week number and GITHUBID is the GitHub username that you're logged in as at the time you follow the link).
     + Navigate to the github repository you'll be using in your browser.
@@ -36,19 +36,20 @@ lastmodifieremail = "ebf11 at psu dot edu"
     + If it says "Clone with https", click "Use ssh".
     + Click the clipboard icon to copy the url onto your clipboard
 - Return to your browser tab with "My Interactive Sessions".
-- Hopefully, there's now a _Connect to Jupyter Notebook Server_ button. Click it
-- Go to the newly opened tab, you'll have a Jupyter Notebook Server.
-- Find _New_ button and choose _Terminal_
+- Hopefully, there's now a _Connect to Jupyter Server_ button. Click it.
+- Go to the newly opened tab, you'll have a Jupyter Lab Server.
+- If you don't see tiles for Python, Julia and Pluto Notebooks, then click _File.New_Launcher_.
+- Find the _Terminal_ tile or in the menu system, _File.New.Terminal_.
 - In the new terminal tab, clone your github repo by running
 
 ```shell
 git clone REPO_URL  # where REPO_URL is what you'll paste from the clipboard
 ```
-- Change into the directory that was created for the repository (we'll call REPO_DIR) and setup all the packge dependancies required (as specified by the Project.toml or test/Project.toml file). 
+- Change into the directory that was created for the repository (we'll call REPO_DIR) and setup all the package dependencies required (as specified by the Project.toml or test/Project.toml file or embedded in Pluto notebooks).
 <!-- (For people who are particularly interested in Julia's package manager:  Normally, this would be in the root directory, but I found having one broken mybinder.org's ability to install Julia packages successfully.  So putting the Project.toml in the test directory is a work around for repositories that don't need to become a Julia package.  That proved to create some problems with travis, so starting with Lab 4, I'm reverting to putting the Project.toml in the root directory.)  -->
 
 <!-- Labs 1-3: -->
-<!-- 
+<!--
 ```shell
 cd REPO_DIR
 julia -e 'using Pkg; cd("test"); Pkg.activate("."); Pkg.instantiate(); '
@@ -67,8 +68,8 @@ git remote add upstream git@github.com:PsuAstro528/example.git
 
 - Go back to the browser tab with your Jupyter notebook server running.
 - Click the directory name of the repository that you just installed.
-- Open a Jupyter notebook (file ending in .ipynb) in that repo, or use the _New_ button to create a new one.
-- Do your work in the Jupyter notebook.
+- Open a Pluto (files ending in .jl) or Jupyter (files ending in .ipynb) notebook in that repo.
+- Do your work in the notebook.
 - When you're done with a notebook, save it and close the tab.
 
 ---
@@ -76,26 +77,28 @@ git remote add upstream git@github.com:PsuAstro528/example.git
 ### Test your code
 
 - Make sure you've committed all your changes (including adding any new files)
-- Check that your code passes the tests for each exercise as you go in a separate test notebook like test_myself.ipynb:
+- Check that your code passes any tests embedded in each notebook as you go.  
+<!-- in a separate test notebook like test_myself.ipynb:
 
 ```julia
 using NBInclude
 @nbinclude("exercise1.ipynb")
 include("test/test1.jl")
 ```
-- If you make changes and retest, then restart the kernel for the test notebook to be sure there aren't unintended carryover effects
-- You can test your full repository even more similarly to how it will be tested by the continuous integration testing by opening a terminal window and running `julia test/runtests.jl`
+-->
+- When using a Jupyer notebook, if you make changes and retest, then restart the kernel for the test notebook to be sure there aren't unintended carryover effects.
+- Once you think you're done, you are encouraged to test your full repository even more similarly to how it will be tested by the continuous integration testing by opening a terminal window and running `julia test/runtests.jl`
 
 ---
 <a id="convert-to-markdown"></a>
-### Convert your Jupyter notebook to Markdown 
+### Convert any Jupyter notebooks to Markdown
 
 - You'll skip this step for any assignments that are Pluto notebooks, since Pluto notebooks are already valid Julia code.
 - Return to the terminal tab # (or open a new one)
 - Run the following commands
 ```shell
 cd YOUR_REPO_DIRECTORY     # You'll need to replace YOUR_REPO_DIRECTORY and NOTEBOOK_NAME
-julia -e 'using Weave; convert_doc("NOTEBOOK_NAME.ipynb","NOTEBOOK_NAME.jmd")'
+julia --project=. -e 'using Weave; convert_doc("NOTEBOOK_NAME.ipynb","NOTEBOOK_NAME.jmd")'
 
 ---
 <a id="commit-push"></a>
