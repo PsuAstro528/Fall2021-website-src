@@ -21,7 +21,6 @@ lastmodifieremail = "ebf11 at psu dot edu"
    - Identify common challenges for providing reproducible software & workflow
    - Describe how Julia's package manager facilitate reproducible research
    - Describe other common tools & strategies for facilitating reproducible research
-
 {{%/excerpt%}}
 
 ## Lessons along the way

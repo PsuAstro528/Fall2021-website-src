@@ -5,8 +5,9 @@ course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
 weight = 700
 
-alwaysopen = true
-chapter= true
+hidden = true
+alwaysopen = false
+chapter= false
 
 creatordisplayname = "Eric Ford"
 creatoremail = "ebf11 at psu dot edu"
@@ -51,6 +52,12 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Week 12
 {{%excerpt-include filename="lessons/week12/goals.md" /%}}
+
+## Week 13
+{{%excerpt-include filename="lessons/week13/goals.md" /%}}
+
+## Week 14
+{{%excerpt-include filename="lessons/week14/goals.md" /%}}
 
 ## Week 13-15
 {{%excerpt-include filename="lessons/weeks-end/goals.md" /%}}

@@ -3,7 +3,7 @@ title = "Readings"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 01102  #wwdpp
+weight = 01104  #wwdpp
 
 chapter= false
 hidden = false

@@ -4,7 +4,7 @@ date = "15 Jul 2021"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 01103  # wwdpp
+weight = 01102  # wwdpp
 
 chapter= false
 hidden = false
@@ -188,15 +188,15 @@ For your first lab session, you'll:
 - Start Pluto notebook server
 - Start working through ex1.jl, then ex2.jl, ...
 
-There are [more detailed instructions](/tips) on the website. 
+There are [more detailed instructions](/tips) on the website.
 <!-- about doing these using the [ICS-ACI Portal](http://portal.aci.ics.psu.edu/). -->
 ___
-### Commiting Changes 
+### Commiting Changes
 
 - _Commit_ your changes to local "repo"
 - Can commit Pluto notebooks directly as .jl files.
 - Later one when using Jupyter notebooks
-  + First make a markdown version for human-readable version control 
+  + First make a markdown version for human-readable version control
   + Use Weave's convert_doc to conver Jupyter notebook (ex1.ipynb) into Julia Markdown (ex1.jmd)
   + Add & commit both ex?.ipynb and ex?.jmd files to your local repo
 - Before signing off for the session, "push" your commits to GitHub

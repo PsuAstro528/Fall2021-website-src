@@ -23,14 +23,13 @@ lastmodifieremail = "ebf11 at psu dot edu"
       + [FLoops.jl](https://juliafolds.github.io/FLoops.jl/dev/) and `ThreadedEx` (recommended)
       + [Threads.@threads](https://docs.julialang.org/en/v1/manual/multi-threading/#The-@threads-Macro) and/or [ThreadsX.jl](https://tkf.github.io/ThreadsX.jl/dev/) for for loops (recommended)
       + [Folds.jl](https://github.com/JuliaFolds/Folds.jl) (alternative)
-      + [SharedArray]'s[https://docs.julialang.org/en/v1/stdlib/SharedArrays/] (alternative)
-
+      + [SharedArray](https://docs.julialang.org/en/v1/stdlib/SharedArrays/)s (alternative)
 - Readings / Discussions
    - Evaluating the suitability of a problem for different parallel architectures
 {{%/excerpt%}}
 
 ## Lessons along the way
-- Reinforce programming patterns demonstrated in Lab 5
+- Reinforce programming patterns demonstrated in [Lab 5](/labs/lab5)
    - Organize code into files and a [module](https://docs.julialang.org/en/v1/manual/modules/index.html)
    - Using [function-like objects](https://docs.julialang.org/en/v1/manual/methods/#Function-like-objects-1)
    - Using [broadcasting](https://docs.julialang.org/en/v1/base/arrays/#Broadcast-and-vectorization-1)
