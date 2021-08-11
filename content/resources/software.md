@@ -14,11 +14,7 @@ lastmodifieremail = "ebf11@psu.edu"
 +++
 
 
-# [Julia Resourse](julia/)
-
-# [Pluto.jl](https://github.com/fonsp/Pluto.jl)
-
-- [Basic Commands in Pluto](https://github.com/fonsp/Pluto.jl/wiki/%F0%9F%94%8E-Basic-Commands-in-Pluto)
+# [Julia Resources](julia/)
 
 # [Jupyter](https://jupyter.org/)
 
