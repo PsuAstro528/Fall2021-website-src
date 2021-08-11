@@ -15,7 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 
 {{%excerpt%}}
-Lab 8:  **Parallel Programming III: GPUs & Other Hardware Accelerators ** (due Nov 11)
+Lab 8:  **Parallel Programming III: GPUs & Other Hardware Accelerators** (due Nov 11)
 - Exercise 1
 - TBD
 <br />
