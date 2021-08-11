@@ -17,9 +17,9 @@ lastmodifieremail = "ebf11 at psu dot edu"
 # Week 5
 {{%excerpt%}}
 - Prior to Monday's class
-   + Submit Lab 4
    + _Introduction to High Performance Computing for Scientists and Engineers_ Ch 2: Serial Optimization (26pg)
 - Prior to Thursday's class 
+   + Submit Lab 4
    {{%/excerpt%}}
 
 - Additional resources

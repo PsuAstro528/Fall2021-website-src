@@ -17,7 +17,6 @@ lastmodifieremail = "ebf11 at psu dot edu"
 # Week 4
 {{%excerpt%}}
 - Prior to Monday's class
-   + Submit Lab 3
    + [Submit Project Proposal](/lessons/week4/project)
    + _Writing Scientific Software_ Ch 6: Computer Organization (12pg)
    +  Either
@@ -26,4 +25,5 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - Prior to Thursday's class
    + _Writing Scientific Software_ Ch 17.3: Profiling (2pg)
    + [Why does Julia work so well?](http://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia)
+   + Submit Lab 3
 {{%/excerpt%}}
