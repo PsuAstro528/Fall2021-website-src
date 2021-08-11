@@ -1,5 +1,5 @@
 +++
-title = "Course Overview (slides)"
+title = "Course Overview"
 date = "15 Jul 2021"
 course_inst = "Penn State"
 course_number = "Astro 528"
@@ -55,9 +55,8 @@ ___
 ___
 ### Please err on the side of caution
 - If not feeling well, please stay home.
-- If have reason to beleive may have been exposed, please stay home.
+- If have reason to believe may have been exposed, please stay home.
 - Please let me know in advance (to the extent practical).
-- Please work with me to make it practical for students to participate remotely when staying home to help protect others.
 ___
 - Being extra cautious in class will help peers and instructor to focus on learning, rather than worrying about their safety.
 - If engage in less safe activities outside of class, please take precautions.
@@ -69,11 +68,11 @@ Enhance your skills for scientific computing
    + Choose right tool for right task
    + Reduce time debugging
    + Improve reproducibility
-   + Increase impact of your software
 - Enable you to
    + Analyze "Big Data"
    + Increase resolution of simulations
    + Include more complex physics
+   + Increase impact of your software
 
 ---
 <!-- .slide: data-background="#093162" -->
@@ -109,13 +108,13 @@ ___
 ___
 ### Writing efficient serial code
 - Processor architectures
-- Memeory heirarchy
+- Memory hierarchy
 - Networking
 - Programming languages
 - Choosing algorithms
 - Benchmarking
 - Profiling
-- Compilzer optimizations
+- Compiler optimizations
 - Optimizing
 ___
 ### Parallelizing code efficiently
@@ -133,7 +132,7 @@ Ask if any students already using parallel codes.  If so, how were they parallel
 
 - Increase technical knowledge
     + Readings, online lessons & class discussion
-- Practice fundamentals on a small scalle
+- Practice fundamentals on a small scale
     + Lab/homework exercises
     + Make lots of mistakes quickly & learn from them
     + Make good habits routine
@@ -154,7 +153,7 @@ ___
    + _Introduction to High Performance Computing for Scientists and Engineers_ (definitely optional)
 - Online PDFs
 - Online tutorials
-- Recordings?
+- Recordings (will try, no guaranty)
 
 Note:
 Ask students if they would like to record classes.
@@ -197,7 +196,7 @@ ___
 - Can commit Pluto notebooks directly as .jl files.
 - Later one when using Jupyter notebooks
   + First make a markdown version for human-readable version control
-  + Use Weave's convert_doc to conver Jupyter notebook (ex1.ipynb) into Julia Markdown (ex1.jmd)
+  + Use Weave's convert_doc to convert Jupyter notebook (ex1.ipynb) into Julia Markdown (ex1.jmd)
   + Add & commit both ex?.ipynb and ex?.jmd files to your local repo
 - Before signing off for the session, "push" your commits to GitHub
 

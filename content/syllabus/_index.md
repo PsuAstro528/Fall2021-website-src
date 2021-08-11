@@ -22,12 +22,8 @@ The primary goal is for students to improve their skills in scientific computing
 
 All of these objectives may not be realized within the one-semester course, and we will adapt the scope and emphasis based on student interests and programming experience.  The version of the syllabus on the course website will be updated throughout the semester.  Students should check the website regularly for updates.
 
-{{< children depth="1"  />}}
-
-
 This course can count toward the Penn State [Graduate Minor in Computational Science](http://www.csci.psu.edu/).  It is complementary to [Phys/Astro 587 _Computational Physics/Astrophysics_](https://bulletins.psu.edu/search/?scontext=courses&search=Astro+527&caturl=%2Fgraduate), the recent [Astro 585: _Astrostatistics_](https://bulletins.psu.edu/search/?scontext=courses&search=Astro+585&caturl=%2Fgraduate) and [Stat/IST 557: _Data Mining_](https://bulletins.psu.edu/search/?scontext=courses&search=Stat+557&caturl=%2Fgraduate).  The combination of these four courses with the domain expertise from their Ph.D. program would provide students with an excellent introduction to [Data Science](https://s3.amazonaws.com/aws.drewconway.com/viz/venn_diagram/data_science.html).
 
+{{< children depth="1"  />}}
 - [Course Schedule](/lessons/)
-- [Additional Resources](/resources/other)
-
-
+- [Additional Resources](/resources/)
