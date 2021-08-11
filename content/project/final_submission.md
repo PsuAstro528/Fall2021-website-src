@@ -1,9 +1,9 @@
 +++
-title = "Submit Completed Class Project"
+title = "Completed Project"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 14120  #wwdpp
+weight = 560
 
 chapter= false
 
@@ -15,12 +15,12 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 # Grading Rubric for Final Project Submission
 {{%excerpt%}}
-- Results of benchmarking code (typically included in project README, but more comprehensive benchmarking could be in a separate document, notebook or directory) 
-   - Performance versus problem size for fixed number of workers (1 point) 
+- Results of benchmarking code (typically included in project README, but more comprehensive benchmarking could be in a separate document, notebook or directory)
+   - Performance versus problem size for fixed number of workers (1 point)
    - Performance versus number of workers for fixed problem size (1 point)
 - Documentation:  
    - README:  (1 point)
-      - Project overview 
+      - Project overview
       - Instructions on how to install and run code
       - CI testing or detailed instructions on how to rerun tests
       - Results of benchmarking and/or pointer to where results can be found

@@ -3,7 +3,7 @@ title = "Serial Code for Project due"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 07120  #wwdpp
+weight = 0520
 
 chapter= false
 
@@ -31,4 +31,3 @@ If you have time, it would be best to include the results of benchmarking and/or
 {{%/excerpt%}}
 
 {{%excerpt-include filename="project/code_reviews/prep.md" /%}}
-

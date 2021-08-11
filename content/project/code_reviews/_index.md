@@ -3,7 +3,7 @@ title = "Peer Code Reviews"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 150
+weight = 530
 
 creatordisplayname = "Eric Ford"
 creatoremail = "ebf11 at psu dot edu"

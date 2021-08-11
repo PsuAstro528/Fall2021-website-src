@@ -3,7 +3,7 @@ title = "First Parallel Project Code due"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 12120  #wwdpp
+weight = 540
 
 chapter= false
 

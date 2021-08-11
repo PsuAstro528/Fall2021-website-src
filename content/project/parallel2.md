@@ -1,9 +1,9 @@
 +++
-title = "Submit Second Parallel Implementation"
+title = "Second Parallel Implementation"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 14120  #wwdpp
+weight = 550
 
 chapter= false
 

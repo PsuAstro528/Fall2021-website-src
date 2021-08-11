@@ -6,6 +6,7 @@ course_name = "High-Performance Scientific Computing for Astrophysics"
 weight = 08110  #wwdpp
 
 chapter= false
+hidden = true
 
 creatordisplayname = "Eric Ford"
 creatoremail = "ebf11 at psu dot edu"
@@ -27,4 +28,3 @@ Lab 4: **Higher-level Languages & Probabilistic Programming** (due Sept 23)
 -->
 
 {{% children depth="1" %}}
-

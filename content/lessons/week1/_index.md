@@ -15,6 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons / Resources
 {{< children depth="1" />}}
+- **[Lab 1](/labs/lab1/)**
 
 ## Instructions for using ACI
 - [Getting Started with Julia on ACI](../resources/aci)

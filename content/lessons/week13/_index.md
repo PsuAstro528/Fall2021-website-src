@@ -14,4 +14,8 @@ lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
 ## Lessons / Resources
-{{< children depth="2" >}}
+{{< children depth="2" />}}
+- **[Second parallel implementation of class project](/project/parallel2)** (typically using distributed-memory or GPU)
+- **[Lab 9](/labs/lab9/)**
+
+{{% alert theme="danger" %}}Second parallel implementation of project due Nov 18{{% /alert %}}

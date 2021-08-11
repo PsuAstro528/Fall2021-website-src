@@ -3,7 +3,7 @@ title = "Grading Rubrics"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 130
+weight = 590
 
 creatordisplayname = "Eric Ford"
 creatoremail = "ebf11 at psu dot edu"
@@ -28,11 +28,11 @@ The grading rubric for each part of the proposal is provided below.
 
 ### Project Proposal
 
-{{%excerpt-include filename="lessons/week4/project.md" /%}}
+{{%excerpt-include filename="project/proposal.md" /%}}
 
 ### Serial version of code
 
-{{%excerpt-include filename="lessons/week7/project.md" /%}}
+{{%excerpt-include filename="project/serial.md" /%}}
 
 ### Peer Code Reviews
 
@@ -43,15 +43,15 @@ For more information, see [instructions for code review](/project/code_reviews).
 ### First parallel version of code
 Typically, the first parallel version runs on multiple cores using a shared memory system.
 
-{{%excerpt-include filename="lessons/week11/project.md" /%}}
+{{%excerpt-include filename="project/parallel1.md" /%}}
 
 ### Submit second parallel version of code
 Typically, the second parallel version of the code is parallelized using one of: multiple cores with distributed-memory or a GPU.  Other alternatives include using Intel Phis, TPUs, or a cloud environment like JuliaHub.
 
-{{%excerpt-include filename="lessons/week13/project.md" /%}}
+{{%excerpt-include filename="project/parallel2.md" /%}}
 
 ### Completed Project:
-{{%excerpt-include filename="lessons/week14/project.md" /%}}
+{{%excerpt-include filename="project/final_submission.md" /%}}
 
 ### Project Presentation
-{{%excerpt-include filename="lessons/weeks-end/project.md" /%}}
+{{%excerpt-include filename="project/presentations.md" /%}}

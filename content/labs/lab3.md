@@ -1,11 +1,10 @@
 +++
-title = "Exercises"
+title = "Lab 3: Memory Hierarchy"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 03110  #wwdpp
+weight = 0303  #03nn
 
-hidden = true
 chapter= false
 
 creatordisplayname = "Eric Ford"
@@ -16,28 +15,24 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 
 {{%excerpt%}}
-Lab 3: **Memory Access, Disk I/O, DataFrames**  (due Sept 16)
+Lab 3: **Memory Hierarchy: Cache, RAM, Disk I/O, File formats**  (due Sept 16)
 - Exercise 1: Benchmarking File I/O <!-- & Calling Python Packages -->
 - Exercise 2: DataFrames, Join, Query
 - Exercise 3: Dense Matrix-Vector Multiply
 <br>
-{{%/excerpt%}}
 <!--
 [Lab 3 Git Repository](https://github.com/PsuAstro528/lab3-start)
 - [Exercise 1: Benchmarking File I/O & Calling Python Packages](https://nbviewer.jupyter.org/github/PsuAstro528/lab3-start/blob/master/ex1.ipynb)
 - [Exercise 2: DataFrames, Join, Query](https://nbviewer.jupyter.org/github/PsuAstro528/lab3-start/blob/master/ex2.ipynb)
 - [Exercise 3: Dense Matrix-Vector Multiply](https://nbviewer.jupyter.org/github/PsuAstro528/lab3-start/blob/master/ex1.ipynb)
 -->
+{{%/excerpt%}}
 
 ## Lessons / Resources
-- Details for this class
-   - [Getting Started with Julia on ACI](/tips/aci)
-   - [Starting & Submitting Assignments](/tips/submitting)
-- Julia
+- Julia, general
    - [Julia Manual](http://docs.julialang.org/en/v1/)
    - [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
    - [Learn Julia in Y Minutes](https://learnxinyminutes.com/docs/julia/)
-- File Formats
    - [FITSIO library written in C](https://heasarc.gsfc.nasa.gov/fitsio/)
    - [HDF5](https://www.hdfgroup.org/solutions/hdf5/)
    - [Apache Arrow](https://arrow.apache.org/)
@@ -46,14 +41,18 @@ Lab 3: **Memory Access, Disk I/O, DataFrames**  (due Sept 16)
    - Julia's [JLD2.jl package](https://github.com/JuliaIO/JLD2.jl)
    - Julia's [HDF5.jl package](https://github.com/JuliaIO/HDF5.jl)
    - Julia's [FITSIO.jl package](https://github.com/JuliaAstro/FITSIO.jl)
-   - Julia's [Apache [Arrow.jl](https://github.com/JuliaData/Arrow.jl) implementation
+   - Julia's [Apache Arrow.jl](https://github.com/JuliaData/Arrow.jl) implementation
    - [Feather.jl](http://juliadata.github.io/Feather.jl/stable/)
    - [PyCall.jl documentation](https://github.com/JuliaPy/PyCall.jl#types).
 - [Querying DataFrames](https://dataframes.juliadata.org/stable/man/querying_frameworks/)
    - [Query.jl](http://www.queryverse.org/Query.jl/stable/gettingstarted/)
    - [DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl))
    - [JuliaDB.jl](https://github.com/JuliaData/JuliaDB.jl)
+- File Format, specifications
+
 - Miscelaneous
    - [Regular expressions in julia](https://docs.julialang.org/en/v1/manual/strings/index.html#Regular-Expressions-1)
    - [Astropy](http://docs.astropy.org)
+
+
 {{% children depth="1" %}}

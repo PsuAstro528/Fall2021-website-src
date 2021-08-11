@@ -14,4 +14,4 @@ lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
 ## Lessons / Resources
-{{< children depth="2" >}}
+{{< children depth="2" />}}

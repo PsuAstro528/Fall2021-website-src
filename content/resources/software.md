@@ -3,7 +3,7 @@ title = "Software"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 920
+weight = 930
 
 include_toc = true
 
@@ -14,24 +14,7 @@ lastmodifieremail = "ebf11@psu.edu"
 +++
 
 
-# [Julia](https://julialang.org/)
-
-- [Julia Manual](http://docs.julialang.org/en/v1.0/)
-- [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
-- [Introcution to Applied Linear Algebra: Vectors, Matrices and Least Squares: Julia Language Companion](http://vmls-book.stanford.edu/vmls-julia-companion.pdf)
-- [The Fast Track to Julia 1.0](https://juliadocs.github.io/Julia-Cheat-Sheet/)
-- [First Contact with Julia](assets/nb02-first-contact-julia.html)
-- [Learn Julia in Y Minutes](https://learnxinyminutes.com/docs/julia/)
-- [Julia by Example](https://juliabyexample.helpmanual.io/)
-- [Noteworthy Differences from other Languages](https://docs.julialang.org/en/v1/manual/noteworthy-differences/)
-- [Why Julia?](http://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia)
-- [Julia Tutorials](https://julialang.org/learning/)
-- [Julia Blog](https://julialang.org/blog/)
-- [Julia Discourse Forum](https://discourse.julialang.org/)
-- [Julia on StackOverflow](https://stackoverflow.com/questions/tagged/julia-lang)
-- [Julia on Reddit](https://www.reddit.com/r/Julia/)
-- [Julia Twitter feed](https://twitter.com/hashtag/julialang?src=hash)
-- [Julia Slack channel](https://julialang.slack.com/)
+# [Julia Resourse](julia/)
 
 # [Pluto.jl](https://github.com/fonsp/Pluto.jl)
 

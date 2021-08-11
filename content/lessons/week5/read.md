@@ -18,8 +18,8 @@ lastmodifieremail = "ebf11 at psu dot edu"
 {{%excerpt%}}
 - Prior to Monday's class
    + _Introduction to High Performance Computing for Scientists and Engineers_ Ch 2: Serial Optimization (26pg)
-- Prior to Thursday's class 
-   + Submit Lab 4
+- Prior to Thursday's class
+   + Submit [Lab 4](labs/lab4/)
    {{%/excerpt%}}
 
 - Additional resources
@@ -30,4 +30,3 @@ lastmodifieremail = "ebf11 at psu dot edu"
    + [SnoopCompile.jl](https://timholy.github.io/SnoopCompile.jl/stable/)
    + [Cthulhu.jl](https://github.com/JuliaDebug/Cthulhu.jl)
    + [Package development: improving engineering quality & latency | Workshop | JuliaCon 2021](https://www.youtube.com/watch?v=wXRMwJdEjX4&list=PLP8iPy9hna6Q343_8sSq4f306VGLW4TLK&index=31)
-

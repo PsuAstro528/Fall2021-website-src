@@ -14,4 +14,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
 ## Lessons / Resources
-{{< children depth="2" >}}
+{{< children depth="2" />}}
+- **[Serial implementation of class project](/project/serial)**
+
+{{% alert theme="danger" %}}Serial implemenation ready for peer code review due Oct 4{{% /alert %}}

@@ -19,8 +19,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - [Class Project](#project)
 
 ---
-<a id="readings"></a>
-# Preparing for Class
+# Preparing for Class {id="readings"}
 Week 1
 {{%excerpt-include filename="lessons/week1/read.md" /%}}
 
@@ -36,7 +35,7 @@ Week 4
 Week 5
 {{%excerpt-include filename="lessons/week5/read.md" /%}}
 
-<!-- 
+<!--
 Week 6
 
 Week 7
@@ -56,22 +55,20 @@ Week 13
 
 ---
 
-<a id="labs"></a>
-# Lab/Homework Exercises
-{{<excerpt-include filename="lessons/week1/lab.md" />}}
-{{<excerpt-include filename="lessons/week2/lab.md" />}}
-{{<excerpt-include filename="lessons/week3/lab.md" />}}
-{{<excerpt-include filename="lessons/week4/lab.md" />}}
-{{<excerpt-include filename="lessons/week5/lab.md" />}}
-{{<excerpt-include filename="lessons/week8/lab.md" />}}
-{{<excerpt-include filename="lessons/week9/lab.md" />}}
-{{<excerpt-include filename="lessons/week11/lab.md" />}}
-{{<excerpt-include filename="lessons/week13/lab.md" />}}
+# Lab/Homework Exercises {id="labs"}
+{{<excerpt-include filename="labs/lab1.md" />}}
+{{<excerpt-include filename="labs/lab2.md" />}}
+{{<excerpt-include filename="labs/lab3.md" />}}
+{{<excerpt-include filename="labs/lab4.md" />}}
+{{<excerpt-include filename="labs/lab5.md" />}}
+{{<excerpt-include filename="labs/lab6.md" />}}
+{{<excerpt-include filename="labs/lab7.md" />}}
+{{<excerpt-include filename="labs/lab8.md" />}}
+{{<excerpt-include filename="labs/lab9.md" />}}
 
 ---
 
-<a id="project"></a>
-# Class Project Schedule
+# Class Project Schedule {id="project"}
 - Project proposal (due Sept 13)
 - Serial version of code (due Oct 4)
 - Peer code review (due Oct 11)

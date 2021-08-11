@@ -14,6 +14,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
 ## Lessons / Resources
-{{< children depth="2" >}}
+{{< children depth="2" />}}
+- **[Completed class project](/project/final_submission)**
 
-{{% alert theme="danger" %}} Due Dec 2 {{% /alert %}}
+{{% alert theme="danger" %}}Full Project Due Dec 2{{% /alert %}}

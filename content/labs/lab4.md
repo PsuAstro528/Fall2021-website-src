@@ -1,11 +1,10 @@
 +++
-title = "Exercises"
+title = "Lab 4: Probabilistic Programming"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 05110  #wwdpp
+weight = 0304  #03nn
 
-hidden = true
 chapter= false
 
 creatordisplayname = "Eric Ford"
@@ -16,14 +15,13 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 
 {{%excerpt%}}
-Lab 5: **Profiling, Optimization** (due Sept 30)
+Lab 4: **Probabilistic Programming & Higher-level Languages** (due Sept 23)
 - Exercise 1
 - TBD
 <br />
-{{%/excerpt%}}
 <!--
-[Lab 4 Git Repository](https://github.com/PsuAstro528/lab4-start) (due Aug 27) -->
-<!--
-- [Exercise 1: Optimization Problems & Optimizing Serial Code](https://nbviewer.jupyter.org/github/PsuAstro528/lab3-start/blob/master/ex1.ipynb)
  [Exercise 1: Probabilistic Programming & Uncertainty Estimation via MCMC](https://nbviewer.jupyter.org/github/PsuAstro528/lab5-start/blob/master/ex1.ipynb)
 -->
+{{%/excerpt%}}
+
+{{% children depth="1" %}}

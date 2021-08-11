@@ -21,7 +21,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - Prior to Thursday's class
    + [A beginner's guide to Big-O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
    + [Big-O Cheat Sheet](http://bigocheatsheet.com/)
-   + Submit Lab 2
+   + Submit [Lab 2](labs/lab2/)
 {{%/excerpt%}}
 
 <!--

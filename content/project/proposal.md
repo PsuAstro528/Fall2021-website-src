@@ -3,7 +3,7 @@ title = "Project Proposal due"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 04190  #wwdpp
+weight = 0510
 
 chapter= false
 
