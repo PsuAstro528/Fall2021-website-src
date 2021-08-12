@@ -16,7 +16,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 ## Reproducibility: Packages, Environments & Containers
 
 {{%excerpt%}}
-Lab 9: **Reproducibility: Packages, Environments, Containers & the Cloud** (TBC; due Dec 2)
+Lab 9: **Reproducibility: Packages, Environments, Containers & the Cloud** (TBC; due Nov 18)
 - TBD
 <br />
 <!--

@@ -15,3 +15,4 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons / Resources
 {{< children depth="2" />}}
+- **[Lab 9](/labs/lab9/)**

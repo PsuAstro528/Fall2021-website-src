@@ -19,9 +19,8 @@ lastmodifieremail = "ebf11 at psu dot edu"
 {{%excerpt%}}
 - Project
    - Gain experience with second mechanism for parallelizing real world code
-   - Work towards acheiving a significant performance benefit via second parallelization
+   - Work towards achieving a significant performance benefit via second parallelization
 - Readings / Discussions
-   - Describe benefits and disadvanages of cloud computing
+   - Describe benefits and disadvantages of cloud computing
    - Determine whether a project would be well suited for running in the cloud
 {{%/excerpt%}}
-
