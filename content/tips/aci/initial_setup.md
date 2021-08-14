@@ -15,6 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
 ## TODO: Need to update this page for Fall 2021 
+## DO NOT FOLLOW THESE UNTIL THEY ARE UPDATED
 
 <a id="setup-julia"></a>
 ### Setup Julia kernel to work with ACI's Jupyter notebook server
