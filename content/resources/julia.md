@@ -26,6 +26,7 @@ lastmodifieremail = "ebf11@psu.edu"
 - [Noteworthy Differences from other Languages](https://docs.julialang.org/en/v1/manual/noteworthy-differences/)
 - [Why Julia?](http://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia)
 - [Julia Tutorials](https://julialang.org/learning/)
+- [Code Style Blue](https://github.com/invenia/BlueStyle)
 - [Julia Blog](https://julialang.org/blog/)
 - **[Julia Discourse Forum](https://discourse.julialang.org/)**
 - [Julia on StackOverflow](https://stackoverflow.com/questions/tagged/julia-lang)
