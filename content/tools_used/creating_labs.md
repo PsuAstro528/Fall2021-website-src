@@ -167,6 +167,12 @@ git checkout main
 
 Check that you're happy with the labN-start repository
 
+### Serve HTML version of labs
+Set GitHub to serve html versions of labs.
+  - Wait until ExportPluto action builds html files
+  - Go to Settings.Pages https://github.com/PsuAstro528/labN-start/settings/pages
+  - For Soruce, select branch gh-pages.  Save.
+
 ### Distribute new laboratory assignment
 Go to https://classroom.github.com/classrooms
 
