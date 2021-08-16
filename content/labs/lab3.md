@@ -15,10 +15,11 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 
 {{%excerpt%}}
-Lab 3: **Memory Hierarchy: Cache, RAM, Disk I/O, File formats**  (due Sept 16)
-- Exercise 1: Benchmarking File I/O <!-- & Calling Python Packages -->
-- Exercise 2: DataFrames, Join, Query
-- Exercise 3: Dense Matrix-Vector Multiply
+[Lab 3: **Memory Hierarchy: Cache, RAM, Disk I/O, File formats**](https://github.com/PsuAstro528/lab3-start) (due Sept 16)
+<br />
+- [Exercise 1](https://psuastro528.github.io/lab3-start/ex1.html): Dense Matrix-Vector Multiply
+- [Exercise 2](https://psuastro528.github.io/lab3-start/ex2.html): Benchmarking File I/O (& Calling Python Packages)
+<!-- - Exercise 2: DataFrames, Join, Query -->
 <br>
 <!--
 [Lab 3 Git Repository](https://github.com/PsuAstro528/lab3-start)
@@ -48,8 +49,6 @@ Lab 3: **Memory Hierarchy: Cache, RAM, Disk I/O, File formats**  (due Sept 16)
    - [Query.jl](http://www.queryverse.org/Query.jl/stable/gettingstarted/)
    - [DataFramesMeta.jl](https://github.com/JuliaData/DataFramesMeta.jl))
    - [JuliaDB.jl](https://github.com/JuliaData/JuliaDB.jl)
-- File Format, specifications
-
 - Miscelaneous
    - [Regular expressions in julia](https://docs.julialang.org/en/v1/manual/strings/index.html#Regular-Expressions-1)
    - [Astropy](http://docs.astropy.org)
