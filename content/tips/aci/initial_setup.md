@@ -27,5 +27,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 5. If this is your first time on ACI (or first time using git on ACI), then [configure git](../git).
  
-6. Exit from the console and you should be good to go! 
+6. Make a few updates to your ACI environment.  To make this easy, Justin has provided a script that you can easily run from ACI, `/gpfs/group/RISE/classroom/astro_528/scripts/class_setup setup`. If you’re curious, this will update your .bashrc startup script so that it automatically loads a module (so software for the course is in your path; `module use /gpfs/group/RISE/sw7/modules`), and move your .julia and .conda directories from the home filesystem to the work filesystem (since those can get rather large).  If you already have customized your Roar envivironment for your research, then you may want to look at the script and make changes incrementally, so you don’t accidentally break something.  If something does break, you can run `/gpfs/group/RISE/classroom/astro_528/scripts/class_setup restore` to undo the setup changes above.  
+
+7. Exit from the console and you should be good to go! 
 
