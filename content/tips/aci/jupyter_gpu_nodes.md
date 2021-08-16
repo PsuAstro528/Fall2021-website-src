@@ -10,7 +10,7 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11@psu.edu"
 +++
 
-TODO: Need to Update for Fall 2021
+## TODO: Need to Update for Fall 2021
 
 You can currently access a K4000 GPU on the ACI interactive nodes from the Jupyter notebook server.  Students in the class can access more powerful P100 GPUs (with support for double precission arithmetic) via the CyberLAMP cluster by specifying the following PBS options:
 - `-A cyberlamp_class`
