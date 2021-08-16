@@ -20,5 +20,9 @@ lastmodifieremail = "ebf11@psu.edu"
   + Adam Lavely, Christopher Blanton & Chuck Pavloski for helping to find online resources (from their CSE 597 course)
 
 ## Hardware
-  + ICS-ACI for providing classroom support
-  + CyberLAMP team & NSF for providing GPU and Phi resources
+  + ICDS-ACI for providing classroom support
+  + CyberLAMP team & NSF for providing GPU resources
+
+## Inspiration
+  + Some material on this website is based on ["Computational Thinking, a live online Julia/Pluto textbook, https://computationalthinking.mit.edu"](https://computationalthinking.mit.edu).
+
