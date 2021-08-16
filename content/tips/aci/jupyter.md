@@ -24,7 +24,7 @@ Each time in the future you want to start a Jupyter notebook session on ICDS-ACI
 - Choose _BYOE Jupyter Server__
     + Select:
         - Jupyter Interface: JupyterLab
-        - Environment setup: **TODO UPDATE ME** 
+        - Environment setup: `source /gpfs/group/RISE/sw7/conda_envs/julia/env/setup`
         - Allocation: ebf11_d_g_gc_default
         - Number of hours: 2 hours
         - Node type: ACI-b GPU (either No GPU or 1 GPU)
