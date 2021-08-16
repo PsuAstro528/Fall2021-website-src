@@ -17,12 +17,14 @@ lastmodifieremail = "ebf11 at psu dot edu"
 # Week 3
 {{%excerpt%}}
 - Exercise 1
-   - Recognize pros/cons of different file formats
+   - Recognize significance of memory layout & data structures
 - Exercise 2
+   - Recognize pros/cons of different file formats
+<!--
+- Exercise 3
    - Recognize importance of choosing an efficient algorithm
    - Use DataFrames efficiently via `join` and queries
-- Exercise 3
-   - Recognize significance of memory layout & data structures
+-->
 - Class Project
    - Apply "Programming in the Large" to your class project
    - Choose appropriate file format for a project
@@ -31,5 +33,5 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons along the way
 - Big-O notation
-- File formats: CSV, FITS, HDF5, JLD2, Arrow
+- File formats: CSV, FITS, HDF5, JLD2
 - Calling Python from Julia
