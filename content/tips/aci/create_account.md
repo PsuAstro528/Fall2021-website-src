@@ -23,7 +23,7 @@ On the account request form,
 - list Astro528 as the research description,  
 - leave computational and Data Requirements box blank (since they already know what will be required for the class.)  
 
-Students who already have an ACI account should contact [i-ASK](https://iask.aci.ics.psu.edu/) to request that they add your account to the Astro 528 group.
+Students who already have an ACI account should contact Justin Petucci (jmp579@psu.edu) to request that they add your account to the Astro 528 group.
 
  
 
