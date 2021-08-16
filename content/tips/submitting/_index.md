@@ -14,5 +14,6 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
+## Working with Lab/Homework Exercises
 <a id="lab exercises"></a>
 {{< children depth="2" >}}
