@@ -25,11 +25,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 4.  Authorize your ssh-keys on GitHub, as described in [SSH keys on ACI](../sshkeys).
 
-5. If this is your first time on ACI (or first time using git on ACI), then enter something for your name and email (you may wish to use your github id rather than your real name, and a non-email address like nobody@nowhere.org).
-
-```shell
-git config --global user.email "nobody@nowhere.org"
-git config --global user.name "Your Github Id"
-```
+5. If this is your first time on ACI (or first time using git on ACI), then [configure git](../git).
+ 
 6. Exit from the console and you should be good to go! 
 
