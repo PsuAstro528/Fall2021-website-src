@@ -34,9 +34,12 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons along the way
 
-- Types: Strings, Single & double precssion
-- Writing markdown text
+- Types: Strings, Floating point types
+- Functions, Docstrings
 - Modules, Packages, Namespace
 - using/import, include
-- Functions, Docstrings
-- Pseudo-random numbers, Broadcasting, Type stability, Online algorithms
+- Pseudo-random numbers
+- Broadcasting
+- Type stability
+- Online algorithms
+- Writing markdown text

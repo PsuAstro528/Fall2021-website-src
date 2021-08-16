@@ -24,7 +24,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
    + Identify real world complications that affect scaling
 - Exercise 2:  Numerical Stability of N-body Integration
    + Integrate differential equations
-   + Compare the accuracy and numerical stability of results as a function of time step, order and integration
+   + Compare the accuracy and numerical stability of results as a function of time step, order and integration algorithm
    + Appreciate importance of numerical stability
 - Exercise 3: Assertions, Unit Tests & Continuous Integration Testing
    + Write effective tests for floating point calculations
@@ -42,7 +42,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
   - Static/dynamic type-checking
 + Plotting with [Plots.jl](https://github.com/JuliaPlots/Plots.jl)
 + [Keyword/Named function arguements](https://docs.julialang.org/en/v1/manual/functions/index.html#Keyword-Arguments-1)
-+ [view(array, inds...)](https://docs.julialang.org/en/v1/base/arrays/#Views-(SubArrays-and-other-view-types)-1)
 + Integration Algorithms
   - [leapfrog](https://en.wikipedia.org/wiki/Leapfrog_integration)
   - [symplectic](https://en.wikipedia.org/wiki/Symplectic_integrator)
+<!-- + [view(array, inds...)](https://docs.julialang.org/en/v1/base/arrays/#Views-(SubArrays-and-other-view-types)-1) -->
