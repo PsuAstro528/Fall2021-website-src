@@ -26,9 +26,10 @@ Each time in the future you want to start a Jupyter notebook session on ICDS-ACI
         - Jupyter Interface: JupyterLab
         - Environment setup: `source /gpfs/group/RISE/sw7/conda_envs/julia/env/setup`
         - Allocation: ebf11_d_g_gc_default
-        - Number of hours: 2 hours
-        - Node type: ACI-b GPU (either No GPU or 1 GPU)
-        - Memory per core: 4 GB
+        - Number of hours: 2 hours  (can choose longer if you plan to continue after class or outside of class)
+        - Number of cores: 2 (can choose more outside of class time once start parallel labs and project)
+        - Node type: ACI-b GPU (either No GPU or 1 GPU once start GPU lab or for project)
+        - Memory per core: 4 GB (can choose more outside of class time once start project)
     + Click _Launch_
     + Wait while your job starts
 - Once the _Connect to JupyterLab Server_ button appears, click it
