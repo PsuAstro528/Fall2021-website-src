@@ -17,7 +17,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 ## Initial Setup for Roar / ICDS-ACI
 
 
-1.  [Request an account on "Roar"](../create_acount), the supercomputing facility run by Penn State's Institute for Computational and Data Science (ICDS) Advanced CyberInfrastructure (ACI) group.  
+1.  [Request an account on "Roar"](../create_account), the supercomputing facility run by Penn State's Institute for Computational and Data Science (ICDS) Advanced CyberInfrastructure (ACI) group.  
 
 2. Once your account is active, go to the [ACI portal](https://portal.aci.ics.psu.edu), go to Clusters._ACI Shell Access.
 
