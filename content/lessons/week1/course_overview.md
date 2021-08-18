@@ -41,8 +41,8 @@ Eric Ford
 ## Safety & Respect
 ___
 ### Masks
-- As of August 4, all students, faculty, staff and visitors are required to wear masks at all times in all indoor public spaces, including the classroom.  
-- Students are expected to wear masks properly, covering the bridge of their nose and under their chin.  
+- As of August 4, all students, faculty, staff and visitors are required to wear masks at all times in all indoor public spaces, including classrooms.  
+- Any students who choose to join class from Davey 538 are expected to wear masks properly, covering the bridge of their nose and under their chin.  
 - Studies indicate that surgical masks are much more effective than cotton masks.   
 
 ___
@@ -56,9 +56,8 @@ ___
 ### Please err on the side of caution
 - If not feeling well, please stay home.
 - If have reason to believe may have been exposed, please stay home.
-- Please let me know in advance (to the extent practical).
 ___
-- Being extra cautious in class will help peers and instructor to focus on learning, rather than worrying about their safety.
+- Being extra cautious during class will help peers and instructor to focus on learning, rather than worrying about their safety.
 - If engage in less safe activities outside of class, please take precautions.
 ---
 ## Course goals
