@@ -12,7 +12,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
 - Course: Astro 528: High-Performance Scientific Computing for Astrophysics (Fall 2021)
-- Class Meetings: 3:30-4:30pm Mondays &amp; 1:30-3:00pm Thursdays via Zoom (TBC; see meeting IDs inside Canvas)
+- Class Meetings: 3:30-4:30pm Mondays &amp; 1:30-3:00pm Thursdays via Zoom (see meeting IDs inside Canvas)
 - Davey Lab 538 is also reserved for students who choose to join the class from there (subject to government, university, college and departmental health and safety policies)
 - Instructor: Eric Ford
    - Email: ebf11 at psu dot edu

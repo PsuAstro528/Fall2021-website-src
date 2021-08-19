@@ -11,8 +11,6 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-# NEED TO UPDATE  THIS PAGE
-
 # Course Prerequisites
 This course is designed for Astronomy & Astrophysics graduate students.  While Astro 501 is listed as a corerequsite by the registrar, that is primarily a formality, so that non-Astrophysics students will contact me to discuss their background before registering.  Previously, we have had some graduate students from physics and engineering who did very well in the course.  Of course, some extra thought may be required to figure out how concepts from the course presented in the context of astronomy or astrophysics could be applied to their own field of study.
 
@@ -37,8 +35,8 @@ For students who find it convenient to install additional software on their loca
   + An [integrated development environment](https://en.wikipedia.org/wiki/Integrated_development_environment) that supports Julia, such as:
     - [VS Code](https://code.visualstudio.com/) and the [Julia for VSCode extension](https://www.julia-vscode.org/docs/dev/) (recommended)
     - [Atom text editor](https://flight-manual.atom.io/getting-started/sections/installing-atom/) and the [Juno](https://junolab.org/) extension (no longer supported)
-  + [Jupyter](http://jupyter.org/install)
-  + ssh:  While I'm hoping that most operations can be performed without ssh, it may prove handy to have an ssh client on your laptop.  In particular, [setting up ssh keys for github](https://help.github.com/articles/connecting-to-github-with-ssh/) can make it easier to connect to your github repository without retyping passwords excessively.
+  + [Jupyter](http://jupyter.org/install)  (Typically, Jupyter will be setup automatically by adding the IJulia package within Julia.) 
+  + ssh:  While most operations can be performed without ssh, it may prove handy to have an ssh client on your laptop.  In particular, [setting up ssh keys for github](https://help.github.com/articles/connecting-to-github-with-ssh/) can make it easier to connect to a laptop/desktop workstation to your github repository without needing to retype passwords as often.
 
 <!-- Other software students might try
   + [GitHub Desktop](https://desktop.github.com/) and 
@@ -59,5 +57,6 @@ Some students may prefer to setup their system using a [Docker container](https:
 - All students should [request an ACI account](/tips/aci/create_account/) (via the[ICDS website](https://www.icds.psu.edu/computing-services/account-setup/) before the second class meeting.  
 - Students should create an account on [GitHub](http://github.com/).  Note that we will examine and discuss student's code both during class and via peer code review.  Students may choose to protect their privacy by choosing a github account id that does not identify them.  Students may wish to create a separate github account just for this class, so as to avoid being identified by other projects.
 - Prior to the second class meeting, students should send the instructor their PSU and GitHub userids.
+- Students should make use of [Top Hat](https://www.tophat.psu.edu/) for submitting reading questions.  [Top Hat Activation Instructions](https://pennstate.service-now.com/sp?id=kb_article_view&sysparm_article=KB0015827&sys_kb_id=476eb94edb47e81029b24a28139619b1&spa=1) are avaliable.
 <!-- - Students should create a [Travis-CI_.com_](https://travis-ci.com/) that is linked to their GitHub account.  The easiest way is by signing in with your github id. -->
 
