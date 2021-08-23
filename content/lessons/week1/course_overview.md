@@ -161,8 +161,9 @@ ___
 ### Class discussions
 - Let's learn from each other
 - Introductions
-   + Name
+   + Name (& pronouns if you like)
    + Department (if not Astro)
+   + Year of your program
    + What skill you hope to strengthen through this course
 ---
 <section id="setup">
