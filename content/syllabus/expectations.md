@@ -23,6 +23,8 @@ While some students may be comfortable working in close proximity with a partner
 ## Etiquette
 Students are expected to be civil and considerate during class, regardless of whether it is online or in person.  In particular, we want to create an environment where everyone feels comfortable asking questions and sharing imperfect code.  Students should refrain from any actions that distract their classmates, instructor or the class.  It's understandable the cell phones will often be used for two factor authentication, but they should be silenced and put away during class once you've authenticated.  Taking notes on laptops or looking up information relevant to class discussion is encouraged.  However, apps and windows unrelated to the class should be closed throughout class.
 
+If you join class from Davey 538, then please bring headphones, so everyone won't hear audio from your computer (especially during breakout sessions on Thursdays, but potentially also during group discussions if different computers have different audio lag).
+
 The Eberly College of Science has a Code of Mutual Respect and Cooperation.  This code embodies the values that we hope our faculty, staff, and students possess and will endorse to make The Eberly College of Science a place where every individual feels respected and valued, as well as challenged and rewarded.
 
 All students are responsible for knowing and following all the rules and regulations for this course as set forth in the syllabus (including the details on the class web site) and what is announced in class.  In case of any ambiguity, ask the instructor to clarify.
