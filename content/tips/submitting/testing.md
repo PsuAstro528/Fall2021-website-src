@@ -22,11 +22,11 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - Check that your code passes any tests embedded in each notebook as you go.  
 - To test a single exercise, you can use a terminal window, change into your repo directory, and run either:
 ```julia
-julia --project test test/test1.jl
+julia --project=test test/test1.jl
 ```
 - To test al the exercises, you can run
 ```julia
-julia --project test test/runtests.jl
+julia --project=test test/runtests.jl
 ```
 
 - Once you've pushed your changes, it's also good to double check that your lab passes the same test via the continuous integration testing provided by GitHub actions.
