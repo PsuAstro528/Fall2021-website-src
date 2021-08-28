@@ -161,16 +161,18 @@ ___
 ### Class discussions
 - Let's learn from each other
 - Introductions
-   + Name
+   + Name (& pronouns if you like)
    + Department (if not Astro)
+   + Year of your program
    + What skill you hope to strengthen through this course
 ---
 <section id="setup">
 ## Let's get you set up
 ### Accounts
 - Penn State
-- [ICDS-ACI](https://ics.psu.edu/computing-services/account-setup/)
+- [Roar (ICDS-ACI/Roar)](https://ics.psu.edu/computing-services/account-setup/)
 - [Github](https://github.com)
+- [TopHat](https://www.tophat.psu.edu/)
 
 </section>
 ___
@@ -191,13 +193,13 @@ There are [more detailed instructions](/tips) on the website.
 ___
 ### Commiting Changes
 
-- _Commit_ your changes to local "repo"
+- [_Commit_ your changes to local "repo"](https://psuastro528.github.io/tips/submitting/commit/)
 - Can commit Pluto notebooks directly as .jl files.
 - Later one when using Jupyter notebooks
   + First make a markdown version for human-readable version control
   + Use Weave's convert_doc to convert Jupyter notebook (ex1.ipynb) into Julia Markdown (ex1.jmd)
   + Add & commit both ex?.ipynb and ex?.jmd files to your local repo
-- Before signing off for the session, "push" your commits to GitHub
+- Before signing off for the session, ["push" your commits to GitHub](https://psuastro528.github.io/tips/submitting/submitting/#commit-push)
 
 - See [more detailed instructions](/tips/submitting) &
   ask questions as you go
