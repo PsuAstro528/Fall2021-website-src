@@ -15,6 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
 - [Readings, Tutorials & Other Preparation for Class](#readings)
+- [Slides & Notebooks from Class Discussions](#slides)
 - [Lab/Homework Exercises](#labs)
 - [Class Project](#project)
 
@@ -52,6 +53,11 @@ Week 12
 
 Week 13
 -->
+
+---
+
+# Slides & Notebooks{id="slides"}
+{{%excerpt-include filename="/slides.md" /%}}
 
 ---
 
