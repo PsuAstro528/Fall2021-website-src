@@ -15,7 +15,10 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons / Resources
 {{< children depth="2" />}}
+- **[Monday Q&A](https://psuastro528.github.io/Notes-Fall2021/week2/week2_qa.html)**: Git
+- **[Monday Discussion](https://psuastro528.github.io/Notes-Fall2021/week2/week2_discuss.html)**:  Priorities for Scientific Computing, Writing General Code
 - **[Lab 2](/labs/lab2/)**
+
 
 ## Instructions for using ACI
 - [Create Account on Roar/ICDS-ACI](../../tips/aci/create_account)
@@ -25,5 +28,3 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Install Julia & Pluto on your local machine (optional)
 - [See instructions from MIT Intro to Computational Thinking course](https://computationalthinking.mit.edu/Spring21/installation/) (For your lab assignments, you'll use Step 2b: Open an existing notebook file, rather than Step 1a Open a notebook from the web.)
-
-
