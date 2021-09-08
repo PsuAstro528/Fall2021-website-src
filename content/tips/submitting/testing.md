@@ -31,6 +31,12 @@ julia --project=test test/runtests.jl
 
 - Once you've pushed your changes, it's also good to double check that your lab passes the same test via the continuous integration testing provided by GitHub actions.
 
+- If you get an error message about packages not being installed, then run
+```julia
+julia --project=test -e 'using Pkg; Pkg.instantiate(); '
+```
+to make sure all the packages specified in test/Project.toml are installed before running your tests.
+
 <!-- in a separate test notebook like test_myself.ipynb:
 
 ```julia
