@@ -17,17 +17,10 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 {{%excerpt%}}
 Lab 3: **Memory Access, Disk I/O, DataFrames**  (due Sept 16)
-- Exercise 1: Benchmarking File I/O <!-- & Calling Python Packages -->
-- Exercise 2: DataFrames, Join, Query
-- Exercise 3: Dense Matrix-Vector Multiply
+- [Exercise 1](https://psuastro528.github.io/lab3-start/ex1.html):  Dense Matrix-Vector Multiply:  Optimizing serial code, Memory access paterns, Benchmarking
+- [Exercise 2](https://psuastro528.github.io/lab3-start/ex2.html):  Benchmarking File I/O (& Calling Python Packages)
 <br>
 {{%/excerpt%}}
-<!--
-[Lab 3 Git Repository](https://github.com/PsuAstro528/lab3-start)
-- [Exercise 1: Benchmarking File I/O & Calling Python Packages](https://nbviewer.jupyter.org/github/PsuAstro528/lab3-start/blob/master/ex1.ipynb)
-- [Exercise 2: DataFrames, Join, Query](https://nbviewer.jupyter.org/github/PsuAstro528/lab3-start/blob/master/ex2.ipynb)
-- [Exercise 3: Dense Matrix-Vector Multiply](https://nbviewer.jupyter.org/github/PsuAstro528/lab3-start/blob/master/ex1.ipynb)
--->
 
 ## Lessons / Resources
 - Details for this class

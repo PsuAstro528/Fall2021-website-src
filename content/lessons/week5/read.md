@@ -17,7 +17,8 @@ lastmodifieremail = "ebf11 at psu dot edu"
 # Week 5
 {{%excerpt%}}
 - Prior to Monday's class
-   + _Introduction to High Performance Computing for Scientists and Engineers_ Ch 2: Serial Optimization (26pg)
+   + _Introduction to High Performance Computing for Scientists and Engineers_ Ch 2: Serial Optimization (26pg) and/or
+   + [Performance Tips](https://docs.julialang.org/en/v1/manual/performance-tips/)  (just the bold section headings is enough for now;  come back to read more about any specific tip when it applies to your project)
 - Prior to Thursday's class
    + Submit [Lab 4](labs/lab4/)
    {{%/excerpt%}}

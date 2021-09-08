@@ -17,27 +17,18 @@ lastmodifieremail = "ebf11 at psu dot edu"
 # Week 5
 {{%excerpt%}}
 - Exercises
-   - Fit a model to data
+   - Profile code
    - Identify type instability
    - Write type stable functions
-   - Profile code
-   - Identify inefficiencies
+   - Identify common inefficiencies
    - Optimize code for serial execution
-   - Read & write models using a probabilistic programming language
-   - Estimate uncertainties in model parameters using Markov chain Monte Carlo
+- Project
+   - Profile code to identify code worth optimizing
+   - Document code to increase chances of useful feedback from peer code review
 {{%/excerpt%}}
 
 ## Lessons along the way
-- Optimization Algorithms
-   - Linear optimization: matrix solve
-   - Non-linear optimization: Levenberg-Marquardt, Conjugate Gradient Descent, BFGS
-- Use of gradients
-   - Jacobian
-   - Autodifferentiation
-- `@code_warntype` & `JetTest.jl`
-- ProfileView
-- Statistical inference
-   - Posterior Sampling
-   - Heirarchical models
-   - Markov chain Monte Carlo
+- Type stability: `@code_warntype`, [JETTest.jl](https://aviatesk.github.io/JETTest.jl/dev/)
+- Performance impact of `global`'s
+- Strict typing, sub-types, union types
 

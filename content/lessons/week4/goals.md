@@ -16,21 +16,29 @@ lastmodifieremail = "ebf11 at psu dot edu"
 {{%excerpt%}}
 - Describe steps a CPU performs surrounding actual arithmetic
 - Anticipate when performance will be affected by cache size
+- Exercises
+   - Fit a model to data
+   - Read & write models using a probabilistic programming language
+   - Estimate uncertainties in model parameters using Markov chain Monte Carlo
 - Project
    - Plan data structures to optimize for memory access
-   - Profile code to identify code worth optimizing
-   - Document code to increase chances of useful feedback from peer code review
+   - Consider whether autodifferentiation and/or probablistic program model is appropriate for project
 {{%/excerpt%}}
 
 ## Lessons along the way
-- Bus
-- Registers
-- FPUs
-- Prefetch
-- Pipelining
-- Out of order execution
-- Cache: levels, lines, latency, associative
-- Code introspection
-- Type stability: `@code_warntype`, [JETTest.jl](https://aviatesk.github.io/JETTest.jl/dev/)
-- Strict typing, sub-types, union types
-- Performance impact of `global`'s
+- Optimization Algorithms
+   - Linear optimization: matrix solve
+   - Non-linear optimization: Nelder-Mead, Gradient Descent, BFGS
+- Utility of gradients
+   - Autodifferentiation
+- Statistical inference
+   - Posterior Sampling
+   - Markov chain Monte Carlo
+- Computer hardware
+   - Bus
+   - Registers
+   - FPUs
+   - Prefetch
+   - Pipelining
+   - Out of order execution
+   - Cache: levels, lines, latency, associative

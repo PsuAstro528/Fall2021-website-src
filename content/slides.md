@@ -19,6 +19,10 @@ lastmodifieremail = "ebf11 at psu dot edu"
 {{%excerpt%}}
 - [Week 1, Monday](/lessons/week1/course_overview):  Course Overview
 - [Week 1, Thursday](https://psuastro528.github.io/Notes-Fall2021/week1.html):  Scientific Programming & Floating Point Arithmetic
+- [Week 2, Discussion](https://psuastro528.github.io/Notes-Fall2021/week2/week2_discuss.html):  Priorities for Scientific Computing: Unit Testing, Documenting, Generic Code & Specifying Types
+- [Week 2, Q&A](https://psuastro528.github.io/Notes-Fall2021/week2/week2_qa.html):  Git
+- [Week 3, Discussion](https://psuastro528.github.io/Notes-Fall2021/week3/week3_discuss.html):  Priorities for Scientific Computing: Correctness, Documentation
+- [Week 3, Q&A](https://psuastro528.github.io/Notes-Fall2021/week3/week3_qa.html): Two-language Problem, Expert vs Non-Expert Interfaces
 
 {{%/excerpt%}}
 <!--
