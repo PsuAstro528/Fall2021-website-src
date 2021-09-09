@@ -62,6 +62,17 @@ julia --project -e 'using Pkg; Pkg.instantiate(); '
 git remote add upstream git@github.com:PsuAstro528/example.git
 ```
 
+Unfortunately, Pluto notebooks can be a bit finicky.  So in many cases it may make more sense to just download the replacement notebook from the starter repository and overwrite your.
+
+If you did want to attempt to merge changes from the starting repository (e.g., for files other than Pluto notebooks), then you can run either
+```shell
+git pull upstream main
+```
+or if you have a newer version of git
+```shell
+git pull upstream main --allow-unrelated-histories
+```
+
 ---
 <a id="open notebook"></a>
 ### Open notebook
