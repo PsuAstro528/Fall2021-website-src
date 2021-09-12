@@ -16,15 +16,10 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 
 {{%excerpt%}}
-Lab 4: **Higher-level Languages & Probabilistic Programming** (due Sept 23)
-- Exercise 1
-- TBD
+[Lab 4: **Higher-level Languages & Probabilistic Programming**(https://github.com/PsuAstro528/lab4-start) (due Sept 23)
+- [Exercise 1](https://psuastro528.github.io/lab4-start/ex1.html):  Auto-differentiation & Optimization (as in minimization/maximization of a function)
+- [Exercise 2](https://psuastro528.github.io/lab4-start/ex2.html):  Probabilistic Programming Language
 <br />
 {{%/excerpt%}}
-<!--
-[Lab 4 Git Repository](https://github.com/PsuAstro528/lab4-start) (due Aug 27) -->
-<!--
- [Exercise 1: Probabilistic Programming & Uncertainty Estimation via MCMC](https://nbviewer.jupyter.org/github/PsuAstro528/lab5-start/blob/master/ex1.ipynb)
--->
 
 {{% children depth="1" %}}

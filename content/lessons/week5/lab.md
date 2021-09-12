@@ -16,7 +16,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 
 {{%excerpt%}}
-Lab 5: **Profiling, Optimization** (due Sept 30)
+Lab 5: **Profiling, Serial Optimization** (due Sept 30)
 - Exercise 1
 - TBD
 <br />
