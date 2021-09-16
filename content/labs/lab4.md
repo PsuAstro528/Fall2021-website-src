@@ -13,15 +13,22 @@ lastmodifierdisplayname = "Eric Ford"
 lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
-
 {{%excerpt%}}
-Lab 4: **Probabilistic Programming & Higher-level Languages** (due Sept 23)
-- Exercise 1
-- TBD
+[Lab 4: **Higher-level Languages & Probabilistic Programming**(https://github.com/PsuAstro528/lab4-start) (due Sept 23)
+- [Exercise 1](https://psuastro528.github.io/lab4-start/ex1.html):  Auto-differentiation & Optimization (as in minimization/maximization of a function)
+- [Exercise 2](https://psuastro528.github.io/lab4-start/ex2.html):  Probabilistic Programming Language
 <br />
-<!--
- [Exercise 1: Probabilistic Programming & Uncertainty Estimation via MCMC](https://nbviewer.jupyter.org/github/PsuAstro528/lab5-start/blob/master/ex1.ipynb)
--->
 {{%/excerpt%}}
 
-{{% children depth="1" %}}
+## Lessons / Resources
+- Autodifferentiation
+   - [ForwardDiff.jl](https://juliadiff.org/ForwardDiff.jl/stable/)
+   - [ReverseDiff.jl](https://github.com/JuliaDiff/ReverseDiff.jl)
+   - [Zygote.jl](https://github.com/FluxML/Zygote.jl)
+- Model Fitting
+   - [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl)
+- [LsqFit.jl](https://github.com/JuliaNLSolvers/LsqFit.jl)
+- [GLM.jl](https://github.com/JuliaStats/GLM.jl)
+- Probabilistic Programming
+   - [Turing.jl](https://turing.ml/stable/)
+   - [Soss.jl](https://github.com/cscherrer/Soss.jl)
