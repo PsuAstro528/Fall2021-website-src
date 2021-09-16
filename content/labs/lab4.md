@@ -20,7 +20,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 <br />
 {{%/excerpt%}}
 
-## Lessons / Resources
+##  Resources
 - Autodifferentiation
    - [ForwardDiff.jl](https://juliadiff.org/ForwardDiff.jl/stable/)
    - [DiffResults.jl](https://juliadiff.org/DiffResults.jl/stable/)
@@ -34,9 +34,9 @@ lastmodifieremail = "ebf11 at psu dot edu"
    - [Gradient Descent](https://en.wikipedia.org/wiki/Gradient_descent
    - [Downhill Simplex](https://en.wikipedia.org/wiki/Nelder%E2%80%93Mead_method)
    - [BFGS](https://en.wikipedia.org/wiki/Broyden%E2%80%93Fletcher%E2%80%93Goldfarb%E2%80%93Shanno_algorithm)
-
-
-
 - Probabilistic Programming
    - [Turing.jl](https://turing.ml/stable/)
+   - [MCMCChains.jl](https://github.com/TuringLang/MCMCChains.jl)
    - [Soss.jl](https://github.com/cscherrer/Soss.jl)
+- Sampling Algorithms
+   - [NUTS](https://arxiv.org/abs/1111.4246)

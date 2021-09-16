@@ -23,7 +23,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - [Week 2, Q&A](https://psuastro528.github.io/Notes-Fall2021/week2/week2_qa.html):  Git
 - [Week 3, Discussion](https://psuastro528.github.io/Notes-Fall2021/week3/week3_discuss.html):  Priorities for Scientific Computing: Correctness, Documentation
 - [Week 3, Q&A](https://psuastro528.github.io/Notes-Fall2021/week3/week3_qa.html): Two-language Problem, Expert vs Non-Expert Interfaces
-- [Week 4](https://psuastro528.github.io/Notes-Fall2021/week3/week4_qa.html): Compilation, Code inspection, Vectorization, Memory Heirarchy
+- [Week 4](https://psuastro528.github.io/Notes-Fall2021/week4/week4_qa.html): Compilation, Code inspection, Vectorization, Memory Heirarchy
 
 {{%/excerpt%}}
 <!--
