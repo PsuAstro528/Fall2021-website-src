@@ -15,17 +15,4 @@ lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
 
-
-{{%excerpt%}}
-Lab 6: **Parallel Programming I: Shared-memory systems** (due Oct 21)
-- Exercise 1
-- TBD
-<br />
-{{%/excerpt%}}
-<!--
-
-[Lab 5 Git Repository](https://github.com/PsuAstro528/lab5-start) (due March 3)
-
-- [Exercise 1: Probabilistic Programming & Uncertainty Estimation via MCMC](https://nbviewer.jupyter.org/github/PsuAstro528/lab5-start/blob/master/ex1.ipynb)
-- [Exercise 2: Parallelization for Shared-memory Systems (e.g., Multi-core Workstations)](https://nbviewer.jupyter.org/github/PsuAstro528/lab5-start/blob/master/ex2.ipynb)
--->
+{{%excerpt-include filename="/labs/lab6.md" /%}}
