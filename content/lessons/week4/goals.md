@@ -22,7 +22,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
    - Estimate uncertainties in model parameters using Markov chain Monte Carlo
 - Project
    - Plan data structures to optimize for memory access
-   - Consider whether autodifferentiation and/or probablistic program model is appropriate for project
+   - Consider whether autodifferentiation and/or probablistic program model is appropriate for your project
 {{%/excerpt%}}
 
 ## Lessons along the way

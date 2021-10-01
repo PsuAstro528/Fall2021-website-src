@@ -24,7 +24,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - [Week 3, Discussion](https://psuastro528.github.io/Notes-Fall2021/week3/week3_discuss.html):  Priorities for Scientific Computing: Correctness, Documentation
 - [Week 3, Q&A](https://psuastro528.github.io/Notes-Fall2021/week3/week3_qa.html): Two-language Problem, Expert vs Non-Expert Interfaces
 - [Week 4](https://psuastro528.github.io/Notes-Fall2021/week4/week4_qa.html): Compilation, Code inspection, Vectorization, Memory Hierarchy
-- [Week 5](https://psuastro528.github.io/Notes-Fall2021/week5.html):  Programming Interfaces
+- [Week 5](https://psuastro528.github.io/Notes-Fall2021/week5.html): What to Optimize, Programming Interfaces, Abstract Types
 - [Week 6](https://psuastro528.github.io/Notes-Fall2021/week6/week6_discuss.html):  Memory Allocation & Code Review
 
 {{%/excerpt%}}

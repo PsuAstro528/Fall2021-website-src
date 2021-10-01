@@ -18,9 +18,10 @@ lastmodifieremail = "ebf11 at psu dot edu"
 {{%excerpt%}}
 - Exercises
    - Profile code
-   - Identify type instability
-   - Write type stable functions
-   - Identify common inefficiencies
+   - Identify type instability via code inspection macros
+   - Identify opportunities for optimziation
+      - Writing type stable functions
+      - Optimize performance by reducing memory allocaitons
    - Optimize code for serial execution
 - Project
    - Profile code to identify code worth optimizing
@@ -28,7 +29,6 @@ lastmodifieremail = "ebf11 at psu dot edu"
 {{%/excerpt%}}
 
 ## Lessons along the way
-- Type stability: `@code_warntype`, [JETTest.jl](https://aviatesk.github.io/JETTest.jl/dev/)
+- Type stability: [`@code_warntype`](https://docs.julialang.org/en/v1/manual/performance-tips/#man-code-warntype), [JETTest.jl](https://aviatesk.github.io/JETTest.jl/dev/)
 - Performance impact of `global`'s
 - Strict typing, sub-types, union types
-
