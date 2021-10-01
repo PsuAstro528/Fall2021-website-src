@@ -19,6 +19,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 - [Best Practices for Code Review](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
 - [Code Reiew Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f) from Palantir Blog
-- [11 Proven Practices for Peer Review](https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/index.html) from IBM
+- [13 Code Review Standards Inspired by Google](https://betterprogramming.pub/13-code-review-standards-inspired-by-google-6b8f99f7fd67)
+<!-- - [11 Proven Practices for Peer Review](https://www.scribd.com/document/248254604/11-Proven-Practices-for-Peer-Review) from IBM -->
 
 <!-- - [Things Everyone Should Do: Code Review](http://goodmath.scientopia.org/2011/07/06/things-everyone-should-do-code-review/) -->

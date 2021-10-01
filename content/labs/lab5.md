@@ -15,13 +15,10 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 
 {{%excerpt%}}
-Lab 5: **Serial Optimization: Profiling & Optimization Patterns** (due Sept 30)
-- Exercise 1
-- TBD
+[Lab 5: **Serial Optimizations:  Profiling, Type Stability, Code Inspection & Optimization Patterns**](https://github.com/PsuAstro528/lab5-start) (due Sept 23)
+- [Exercise 1](https://psuastro528.github.io/lab5-start/ex1.html):  Profiling
+- [Exercise 2](https://psuastro528.github.io/lab5-start/ex2.html):  Type Stability & Code Inspection
 <br />
-<!--
-- [Exercise 1: Optimization Problems & Optimizing Serial Code](https://nbviewer.jupyter.org/github/PsuAstro528/lab3-start/blob/master/ex1.ipynb)
--->
 {{%/excerpt%}}
 
 {{% children depth="1" %}}

@@ -36,11 +36,14 @@ Week 4
 Week 5
 {{%excerpt-include filename="lessons/week5/read.md" /%}}
 
-<!--
 Week 6
+{{%excerpt-include filename="lessons/week6/read.md" /%}}
+
 
 Week 7
+- Prepare for Code Review
 
+<!---
 Week 8
 
 Week 9
