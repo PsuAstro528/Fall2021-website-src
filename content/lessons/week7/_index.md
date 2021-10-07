@@ -18,6 +18,6 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 - **[Serial implementation of class project](/project/serial)**
 - [Monday Discussion](https://psuastro528.github.io/Notes-Fall2021/week7/week7_codereview.html):  Code Review Best Practices
-- [Thursday Discusion](https://psuastro528.github.io/Notes-Fall2021/week6/week7_parallel.html):  Introduction to Parallelization
+- [Thursday Discusion](https://psuastro528.github.io/Notes-Fall2021/week7/week7_parallel.html):  Introduction to Parallelization
 
 {{% alert theme="danger" %}}Serial implemenation ready for peer code review due Oct 4{{% /alert %}}
