@@ -15,9 +15,10 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons / Resources
 {{< children depth="2" />}}
-- **[Monday Q&A](https://psuastro528.github.io/Notes-Fall2021/week2/week2_qa.html)**: Git
-- **[Monday Discussion](https://psuastro528.github.io/Notes-Fall2021/week2/week2_discuss.html)**:  Priorities for Scientific Computing, Writing General Code
+
 - **[Lab 2](/labs/lab2/)**
+- [Monday Q&A](https://psuastro528.github.io/Notes-Fall2021/week2/week2_qa.html): Git
+- [Monday Discussion](https://psuastro528.github.io/Notes-Fall2021/week2/week2_discuss.html):  Priorities for Scientific Computing, Writing General Code
 
 
 ## Instructions for using ACI

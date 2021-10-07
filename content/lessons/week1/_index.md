@@ -15,8 +15,10 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons / Resources
 {{< children depth="1" />}}
-- **[Thursday Discussion](https://psuastro528.github.io/Notes-Fall2021/week1.html)**
+
 - **[Lab 1](/labs/lab1/)**
+- [Thursday Discussion](https://psuastro528.github.io/Notes-Fall2021/week1.html)
+
 
 ## Instructions for using ACI
 - [Create Account on Roar/ICDS-ACI](../../tips/aci/create_account)

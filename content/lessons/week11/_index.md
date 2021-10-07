@@ -15,6 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons / Resources
 {{< children depth="2" />}}
+
 - **[Shared-memory parallel implementation of class project](/project/parallel1)**
 - **[Lab 8](/labs/lab8/)**
 

@@ -15,4 +15,6 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons / Resources
 {{< children depth="2" />}}
+
 - **[Lab 5](/labs/lab5/)**
+- [Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2021/week5.html): What to Optimize, Programming Interfaces, Abstract Types

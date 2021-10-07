@@ -15,4 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons / Resources
 {{< children depth="2" />}}
+
 - **[Lab 3](/labs/lab3/)**
+- [Monday Discussion](https://psuastro528.github.io/Notes-Fall2021/week3/week3_discuss.html):  Priorities for Scientific Computing: Correctness, Documentation
+- [Thursday Q&A](https://psuastro528.github.io/Notes-Fall2021/week3/week3_qa.html): Two-language Problem, Expert vs Non-Expert Interfaces

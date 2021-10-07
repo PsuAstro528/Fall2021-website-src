@@ -15,5 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons / Resources
 {{< children depth="2" />}}
+
 - **[Project Proposal](/project/proposal)**
 - **[Lab 4](/labs/lab4/)**
+- [Monday Q&A](https://psuastro528.github.io/Notes-Fall2021/week4/week4_qa.html): Compilation, Code inspection, Vectorization, Memory Hierarchy

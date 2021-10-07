@@ -15,3 +15,5 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons / Resources
 {{< children depth="2" />}}
+
+- [Discussion](https://psuastro528.github.io/Notes-Fall2021/week6/week6_discuss.html):  Memory Allocation & Code Review

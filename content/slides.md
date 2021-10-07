@@ -26,10 +26,11 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - [Week 4](https://psuastro528.github.io/Notes-Fall2021/week4/week4_qa.html): Compilation, Code inspection, Vectorization, Memory Hierarchy
 - [Week 5](https://psuastro528.github.io/Notes-Fall2021/week5.html): What to Optimize, Programming Interfaces, Abstract Types
 - [Week 6](https://psuastro528.github.io/Notes-Fall2021/week6/week6_discuss.html):  Memory Allocation & Code Review
+- [Week 7, Monday](https://psuastro528.github.io/Notes-Fall2021/week7/week7_codereview.html):  Code Review Best Practices
+- [Week 7, Thursday](https://psuastro528.github.io/Notes-Fall2021/week6/week7_parallel.html):  Introduction to Parallelization
 
 {{%/excerpt%}}
 <!--
-- [Week 7](https://psuastro528.github.io/Notes-Fall2021/week7.html):  TBD
 - [Week 8](https://psuastro528.github.io/Notes-Fall2021/week8.html):  TBD
 - [Week 9](https://psuastro528.github.io/Notes-Fall2021/week9.html):  TBD
 - [Week 10](https://psuastro528.github.io/Notes-Fall2021/week10.html):  TBD
