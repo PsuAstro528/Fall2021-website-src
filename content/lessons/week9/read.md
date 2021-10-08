@@ -3,7 +3,7 @@ title = "Readings"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
-weight = 07104  #wwdpp
+weight = 09104  #wwdpp
 
 chapter= false
 
@@ -14,7 +14,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 +++
 
 
-# Week 7
+# Week 9
 {{%excerpt%}}
 - Prior to Monday's class
    + [Distributed Processing with Julia](https://docs.julialang.org/en/v1/manual/distributed-computing/) (stop after Parralel Map and Loops)

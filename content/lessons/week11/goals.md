@@ -42,9 +42,3 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Resources
 - [GPU Workshop at JuliaCon 2021](https://github.com/maleadt/juliacon21-gpu_workshop)
-
-## Lessons along the way
-- Virtual machines
-- Projects & environments
-- Containers & images
-- Docker & Singularity

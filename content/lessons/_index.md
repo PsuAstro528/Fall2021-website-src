@@ -39,23 +39,27 @@ Week 5
 Week 6
 {{%excerpt-include filename="lessons/week6/read.md" /%}}
 
-
 Week 7
 - Prepare for Code Review
+{{%excerpt-include filename="lessons/week7/read.md" /%}}
 
-<!---
 Week 8
+{{%excerpt-include filename="lessons/week8/read.md" /%}}
 
 Week 9
+{{%excerpt-include filename="lessons/week9/read.md" /%}}
 
 Week 10
+{{%excerpt-include filename="lessons/week10/read.md" /%}}
 
 Week 11
+{{%excerpt-include filename="lessons/week11/read.md" /%}}
 
 Week 12
+{{%excerpt-include filename="lessons/week12/read.md" /%}}
 
 Week 13
--->
+{{%excerpt-include filename="lessons/week13/read.md" /%}}
 
 ---
 

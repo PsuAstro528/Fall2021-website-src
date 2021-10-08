@@ -24,3 +24,8 @@ lastmodifieremail = "ebf11 at psu dot edu"
    - Describe benefits and disadvantages of cloud computing
    - Determine whether a project would be well suited for running in the cloud
 {{%/excerpt%}}
+
+## Lessons along the way
+- Virtual machines
+- Containers & images
+- Docker & Singularity
