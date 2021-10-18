@@ -29,7 +29,8 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - [Week 7, Monday](https://psuastro528.github.io/Notes-Fall2021/week7/week7_codereview.html):  Code Review Best Practices
 - [Week 7, Thursday](https://psuastro528.github.io/Notes-Fall2021/week6/week7_parallel.html):  Introduction to Parallelization
 - [Week 8, Monday](https://psuastro528.github.io/Notes-Fall2021/week8/week8.html):  Parallelization: Q&A and Scaling Laws
-- [Week 9, Monday](https://psuastro528.github.io/Notes-Fall2021/week9/week9.html):  Using a supercomputing center & Distributed memory programming
+- [Week 9, Monday Discussion](https://psuastro528.github.io/Notes-Fall2021/week9/week9_discuss.html):  Using the Roar supercomputer
+- [Week 9, Monday Q&A](https://psuastro528.github.io/Notes-Fall2021/week9/week9_discuss.html):  Distributed memory programming
 
 {{%/excerpt%}}
 <!--
