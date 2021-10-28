@@ -31,6 +31,8 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - [Week 8, Monday](https://psuastro528.github.io/Notes-Fall2021/week8/week8.html):  Parallelization: Q&A and Scaling Laws
 - [Week 9, Monday Discussion](https://psuastro528.github.io/Notes-Fall2021/week9/week9_discuss.html):  Using the Roar supercomputer
 - [Week 9, Monday Q&A](https://psuastro528.github.io/Notes-Fall2021/week9/week9_discuss.html):  Distributed memory programming
+- [Week 10, Monday Discussion](https://psuastro528.github.io/Notes-Fall2021/week10/week10_discuss.html):  GPU Computing
+- [Week 10, Thursday Q&A](https://psuastro528.github.io/Notes-Fall2021/week10/week10_qa.html):  GPU Computing
 
 {{%/excerpt%}}
 <!--
