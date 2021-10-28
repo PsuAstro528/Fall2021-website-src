@@ -15,3 +15,6 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons / Resources
 {{< children depth="2" />}}
+
+- [Week 10, Monday Discussion](https://psuastro528.github.io/Notes-Fall2021/week10/week10_discuss.html):  GPU Computing
+- [Week 10, Thursday Q&A](https://psuastro528.github.io/Notes-Fall2021/week10/week10_qa.html):  GPU Computing

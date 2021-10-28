@@ -17,3 +17,5 @@ lastmodifieremail = "ebf11 at psu dot edu"
 {{< children depth="2" />}}
 
 - **[Lab 7](/labs/lab7/)**
+- [Week 9, Monday Discussion](https://psuastro528.github.io/Notes-Fall2021/week9/week9_discuss.html):  Using the Roar supercomputer
+- [Week 9, Monday Q&A](https://psuastro528.github.io/Notes-Fall2021/week9/week9_discuss.html):  Distributed memory programming

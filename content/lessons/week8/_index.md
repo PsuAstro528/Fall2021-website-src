@@ -17,4 +17,4 @@ lastmodifieremail = "ebf11 at psu dot edu"
 {{< children depth="2" />}}
 
 - **[Lab 6](/labs/lab6/)**
-- [Monday Discusion](https://psuastro528.github.io/Notes-Fall2021/week8/week8.html):  Parallelization Q&A
+- [Week 8, Monday](https://psuastro528.github.io/Notes-Fall2021/week8/week8.html):  Parallelization: Q&A and Scaling Laws
