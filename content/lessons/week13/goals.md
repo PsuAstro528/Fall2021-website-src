@@ -24,7 +24,4 @@ lastmodifieremail = "ebf11 at psu dot edu"
 {{%/excerpt%}}
 
 ## Lessons along the way
-- Virtual machines
 - Projects & environments
-- Containers & images
-- Docker & Singularity

@@ -18,23 +18,18 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 {{%excerpt%}}
 - Lab 8, Exercise 1
-   - Run GPU code on ICDS-ACI
+   - Run GPU code on ICDS-ACI/Roar
    - Accelerate linear algebra computations with GPU
    - Recognize what problem sizes and likely to result in acceleration with a GPU for linear algebra
 - Lab 8, Exercise 2:
-   - Perform custom scientific computations using high-level GPU interface, such as
-      + [Folds.jl](https://juliafolds.github.io/Folds.jl/dev/) with `CUDAEx()` executor from [FoldsCUDA.jl](https://juliafolds.github.io/FoldsCUDA.jl/dev/) (recommended), or
-      + `mapreduce` on [`CuArray`](https://cuda.juliagpu.org/stable/usage/array/) from [CUDA.jl](https://cuda.juliagpu.org/stable/) (recommended)
+   - Write a GPU kernel, using [KernelAbstractions.jl](https://juliagpu.github.io/KernelAbstractions.jl/stable/)
    - Improve performance by reducing kernel launches via broadcasting and GPU kernel fusion
    - Improve performance by reducing memory transfers via GPU reductions
-   - Recognize what types of problems and problem sizes are likely to result in acceleration with a GPU  when using a high-level programming interface
-- Lab 8, Exercise 3:
-   - Write a GPU kernel, using one of
-      + [CUDA.jl](https://cuda.juliagpu.org/stable/tutorials/introduction/#Writing-your-first-GPU-kernel)
-      + [FoldsCUDA.jl](https://juliafolds.github.io/FoldsCUDA.jl/dev/)
-      + [KernelAbstractions.jl](https://juliagpu.github.io/KernelAbstractions.jl/stable/)
+   - Perform custom scientific computations using high-level GPU interface, such as
+      + `map` or `mapreduce` on [`CuArray`](https://cuda.juliagpu.org/stable/usage/array/) from [CUDA.jl](https://cuda.juliagpu.org/stable/) (recommended), or
+      - Recognize what types of problems and problem sizes are likely to result in acceleration with a GPU  when using a high-level programming interface or custom GPU kernel
+      + [Folds.jl](https://juliafolds.github.io/Folds.jl/dev/) with `CUDAEx()` executor from [FoldsCUDA.jl](https://juliafolds.github.io/FoldsCUDA.jl/dev/)
    - Improve performance through reduced memory usage
-   - Recognize when a custom kernel is likely improve GPU performance
 - Project
    - Parallelize real world code
    - Achieve significant performance benefit via parallelization

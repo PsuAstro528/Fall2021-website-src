@@ -16,9 +16,3 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 
 {{%excerpt-include filename="/labs/lab8.md" /%}}
-
-<!--
-- [Exercise 1:  Getting Setup for GPU Computing & Linear Algebra](https://nbviewer.jupyter.org/github/PsuAstro528/lab7-start/blob/master/ex1.ipynb)
-- [Exercise 2:  Broadcasting, Fusion, Reductions](https://nbviewer.jupyter.org/github/PsuAstro528/lab7-start/blob/master/ex2.ipynb)
-- [Exercise 3:  Low-level GPU Programming](https://nbviewer.jupyter.org/github/PsuAstro528/lab7-start/blob/master/ex3.ipynb)
--->
