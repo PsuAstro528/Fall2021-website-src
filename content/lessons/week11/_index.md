@@ -18,5 +18,6 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 - **[Shared-memory parallel implementation of class project](/project/parallel1)**
 - **[Lab 8](/labs/lab8/)**
+- [Slides](https://psuastro528.github.io/Notes-Fall2021/week11/week11.html):  Priorities, Q&A Parallel Random Number Generators, Autodiff on GPUs
 
 {{% alert theme="danger" %}}First parallel implementation of project due Nov 1{{% /alert %}}
