@@ -15,4 +15,5 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons / Resources
 {{< children depth="2" />}}
-- **[Presentations of Class Projects](/project/presentations)** & Lessons Learned
+
+- **[Presentations of Class Projects & Lessons Learned](/project/presentations)** 

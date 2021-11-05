@@ -17,15 +17,15 @@ lastmodifieremail = "ebf11 at psu dot edu"
 # Week 12
 
 {{%excerpt%}}
+- Readings / Discussions
+   - Identify common challenges for providing reproducible software & workflow
+   - Describe how Julia's package manager facilitate reproducible research
+   - Describe other common tools & strategies for facilitating reproducible research
 - Project
    - Gain experience with second mechanism for parallelizing real world code
-   - Work towards achieving a significant performance benefit via second parallelization
-- Readings / Discussions
-   - Describe benefits and disadvantages of cloud computing
-   - Determine whether a project would be well suited for running in the cloud
+   - Perform benchmarks for serial and at least one parallel version of your project code.  
+   - Analyze and explain the weak and strong scalings of your project code.  
 {{%/excerpt%}}
 
 ## Lessons along the way
-- Virtual machines
-- Containers & images
-- Docker & Singularity
+- Projects & environments

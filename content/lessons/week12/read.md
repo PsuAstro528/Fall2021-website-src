@@ -16,10 +16,14 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 # Week 12
 {{%excerpt%}}
+- Prior to Monday's class
+   + _Writing Scientific Software_ Ch 17.1: Make (4pg; if using C/C++ or Fortran for project) -or-
+   + [Julia Package Development](https://pkgdocs.julialang.org/v1/managing-packages/): Sec. 1-3 (stop after Updating Packages; if using Julia for project)
 {{%/excerpt%}}
 <!--
 - Prior to Monday's class
 -->
 
 ## Lessons / Resources
+- [PkgTemplates.jl](https://github.com/invenia/PkgTemplates.jl)
 - [Docker Orientation](https://docs.docker.com/get-started/)

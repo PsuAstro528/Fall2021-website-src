@@ -1,5 +1,5 @@
 +++
-title = "Week 13: Packaging & Reproducibility"
+title = "Week 13: Cloud Computing"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
@@ -15,6 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons / Resources
 {{< children depth="2" />}}
+
 - **[Second parallel implementation of class project](/project/parallel2)** (typically using distributed-memory or GPU)
 
 {{% alert theme="danger" %}}Second parallel implementation of project due Nov 18{{% /alert %}}

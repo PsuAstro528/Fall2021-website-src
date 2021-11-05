@@ -18,10 +18,17 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 {{%excerpt%}}
 - Readings / Discussions
-   - Identify common challenges for providing reproducible software & workflow
-   - Describe how Julia's package manager facilitate reproducible research
-   - Describe other common tools & strategies for facilitating reproducible research
+   - Readings / Discussions
+      - Describe benefits and disadvantages of cloud computing
+      - Determine whether a project would be well suited for running in the cloud
+   - Project
+      - Gain experience with second mechanism for parallelizing real world code
+      - Perform benchmarks for the second parallel version of your project code.  
+      - Analyze and explain the weak and strong scalings of your project code.  
+      - Work towards achieving a significant performance benefit via second parallelization
 {{%/excerpt%}}
 
 ## Lessons along the way
-- Projects & environments
+- Virtual machines
+- Containers & images
+- Docker & Singularity

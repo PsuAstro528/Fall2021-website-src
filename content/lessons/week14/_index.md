@@ -1,5 +1,5 @@
 +++
-title = "Week 14: Full Class Project due"
+title = "Week 14: Complete Class Project"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"
@@ -15,6 +15,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 ## Lessons / Resources
 {{< children depth="2" />}}
+
 - **[Completed class project](/project/final_submission)**
 
 {{% alert theme="danger" %}}Full Project Due Dec 2{{% /alert %}}

@@ -1,5 +1,5 @@
 +++
-title = "Week 12: Cloud Computing"
+title = "Week 12: Reproducibility"
 course_inst = "Penn State"
 course_number = "Astro 528"
 course_name = "High-Performance Scientific Computing for Astrophysics"

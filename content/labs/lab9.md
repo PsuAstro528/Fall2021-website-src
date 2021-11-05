@@ -16,16 +16,10 @@ lastmodifieremail = "ebf11 at psu dot edu"
 ## Reproducibility: Packages, Environments & Containers
 
 {{%excerpt%}}
-Lab 9: **Reproducibility: Packages, Environments, Containers & the Cloud** (TBC; due Nov 18)
-- TBD
-<br />
-<!--
-[Lab 9 Git Repository](https://github.com/PsuAstro528/lab8-start) (due April 14)
-
+[Lab 9](https://github.com/PsuAstro528/lab9-start): **Reproducibility: Packages, Environments, Containers & the Cloud** (due Nov 18)
 - Exercise 1: Create a Julia Package
 - Exercise 2: Reflect on your Goals for the semester
--->
-
+- TBD
 {{%/excerpt%}}
 
 {{% children depth="1" %}}
