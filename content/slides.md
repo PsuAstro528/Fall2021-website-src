@@ -34,6 +34,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - [Week 10, Monday Discussion](https://psuastro528.github.io/Notes-Fall2021/week10/week10_discuss.html):  GPU Computing
 - [Week 10, Thursday Q&A](https://psuastro528.github.io/Notes-Fall2021/week10/week10_qa.html):  GPU Computing
 - [Week 11, Monday Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2021/week11/week11.html):  Priorities, Q&A Parallel Random Number Generators, Autodiff on GPUs
+- [Week 12, Monday Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2021/week12/week12.html):  Reproducibility:  Packages, Environments & more
 
 {{%/excerpt%}}
 <!--
