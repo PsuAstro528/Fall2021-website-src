@@ -16,7 +16,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 
 # Week 13
 {{%excerpt%}}
-- TBD
+- None
 {{%/excerpt%}}
 
 ## Lessons / Resources
