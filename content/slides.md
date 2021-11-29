@@ -36,5 +36,7 @@ lastmodifieremail = "ebf11 at psu dot edu"
 - [Week 11, Monday Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2021/week11/week11.html):  Priorities, Q&A Parallel Random Number Generators, Autodiff on GPUs
 - [Week 12, Monday Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2021/week12/week12.html):  Reproducibility:  Packages, Environments & more
 - [Week 13, Monday Discussion and Q&A](https://psuastro528.github.io/Notes-Fall2021/week13/week13.html):  Cloud Computing
+- [Week 14, Monday](https://psuastro528.github.io/Notes-Fall2021/week14/week14.html): From Package to Apps and Philosophical Reflections
+
 
 {{%/excerpt%}}
